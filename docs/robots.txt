@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richx552277.github.io/korea-cardnews/sitemap.xml
