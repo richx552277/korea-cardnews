@@ -1,0 +1,48 @@
+# 인스타그램 클라우드 예약 게시 (2026-10-08) — 원본: E:\claude\instagram-agency\common\cloud\ig-publish.yml
+# 15분마다 publisher/schedule.json을 보고 게시 시각이 지난 항목을 게시, 결과를 publisher/published.json에 커밋한다.
+# 토큰: 저장소 Settings > Secrets and variables > Actions 의 IG_TOKEN_* (대표가 직접 등록)
+name: ig-publish
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "publish(게시) · check(토큰·계정만 확인) · dry(게시 대상만 출력)"
+        default: check
+        type: choice
+        options: [check, dry, publish]
+permissions:
+  contents: write
+concurrency:
+  group: ig-publish
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: publisher
+          filter: blob:none
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 게시
+        env:
+          IG_TOKEN_ROMANCE_KR: ${{ secrets.IG_TOKEN_ROMANCE_KR }}
+          IG_TOKEN_ROMANCE_JP: ${{ secrets.IG_TOKEN_ROMANCE_JP }}
+          IG_TOKEN_KCULTURE: ${{ secrets.IG_TOKEN_KCULTURE }}
+          IG_TOKEN_SUPPORT: ${{ secrets.IG_TOKEN_SUPPORT }}
+          MODE: ${{ github.event.inputs.mode || 'publish' }}
+        run: python publisher/ig_publish.py --$MODE
+      - name: 결과 기록
+        run: |
+          git config user.name "ig-publish-bot"
+          git config user.email "ig-publish-bot@users.noreply.github.com"
+          git add publisher/published.json || true
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "게시 결과 기록"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin HEAD:main && exit 0; sleep 5; done
+          exit 1
