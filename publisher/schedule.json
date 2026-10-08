@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:47:57+09:00",
+  "updated": "2026-10-08T16:28:06+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
     "IG_TOKEN_ROMANCE_JP": "Life_Romera",
@@ -105,6 +105,37 @@
       "cover_ms": 1000
     },
     {
+      "id": "jp_cardnews-20261008-044",
+      "channel": "jp_cardnews",
+      "handle": "kculture_japan",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "carousel",
+      "due": "2026-10-10T12:30:00+09:00",
+      "caption": "知らないと損！韓国旅行2026、入国と地下鉄の最新ルール7つ✈️\n\n11月の連休や年末に韓国旅行を計画中の人へ。\n出発前に知っておくと安心な、入国と地下鉄のルールをまとめました♡\n\n① K-ETA（ケーイータ）は2026年12月31日まで申請不要\n② K-ETAなしで行く人は電子入国申告（e-Arrival Card）を提出\n③ 申告は到着3日前から、公式サイトは手数料なし・日本語OK\n④ 2026年3月から1〜8号線の新型券売機で海外カードが使える\n⑤ 乗り放題の気候同行カード（기후동행카드）短期券は1日5,000ウォン〜\n⑥ 使えるのはソウルの地下鉄と市内・マウルバス（新盆唐線・空港バスは対象外）\n⑦ 短期券はチャージした日が1日目、払い戻しは期間中だけ\n\nQ. 2026年、韓国旅行にK-ETAは必要？\nA. 日本のパスポートなら2026年12月31日まで申請は不要。その場合は到着3日前から電子入国申告（e-Arrival Card）をしておこう。\n\n申告はURLが「.go.kr」の公式サイトで。\n最後のページに地下鉄で使える韓国語もあるよ🇰🇷\n旅行前に保存して、一緒に行く友だちにシェアしてね📌\n※一部写真はイメージです\n\n#韓国旅行 #ソウル旅行 #韓国旅行準備 #韓国入国 #ソウル地下鉄",
+      "image_urls": [
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-1.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-2.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-3.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-4.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-5.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-6.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-7.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-8.jpg",
+        "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/2026-10-korea-entry-subway-202610081628/card-9.jpg"
+      ],
+      "alt": [
+        "韓国旅行2026の入国と地下鉄ルール特集の表紙。ソウルの地下鉄車内の写真に「知らないと損！韓国の入国＆地下鉄ルール」の文字。",
+        "韓国旅行の入国ルール①K-ETA。日本のパスポートなら2026年12月31日までK-ETAの申請は不要。仁川空港の写真。",
+        "韓国旅行の入国ルール②電子入国申告e-Arrival Card。K-ETAなしで韓国に入国する人は提出が必要、K-ETAを取った人は不要。",
+        "韓国旅行の入国ルール③e-Arrival Cardは到着3日前から申告でき、公式サイトe-arrivalcard.go.krは手数料なし・日本語対応。",
+        "ソウル地下鉄のルール④2026年3月から1〜8号線の新型券売機でVisa・Mastercardなど海外カードが使える。手数料は約3.7%。",
+        "ソウル地下鉄のルール⑤乗り放題の気候同行カード短期券は1日5,000ウォン、3日10,000ウォン、7日20,000ウォン。カード代3,000ウォンは別。",
+        "ソウル地下鉄のルール⑥気候同行カード短期券はソウルの地下鉄と市内・マウルバスで使え、仁川空港駅での下車もOK。新盆唐線・空港バスは対象外。",
+        "ソウル地下鉄のルール⑦気候同行カード短期券はチャージした日が1日目で最終日の終電まで。払い戻しは期間中だけ、手数料500ウォン。",
+        "ソウルの地下鉄で使える韓国語「チュルグガ オディエヨ（出口はどこですか）」「オディソ カラタヨ（どこで乗り換えますか）」などと観光案内1330の番号。"
+      ]
+    },
+    {
       "id": "jp_reels-20261008-076",
       "channel": "jp_reels",
       "handle": "Life_Romera",
@@ -164,6 +195,17 @@
       "caption": "위로글귀 🌙 연휴 끝, 내일의 나를 응원해요\n\n연휴가 끝나 가는 밤, 내일 출근 생각에 마음이 무거운가요?\n일요일 밤 잠이 잘 안 오고, 아침 알람이 유난히 두렵게 느껴질 때.\n쉬는 동안 잘 채웠으니 내일은 생각보다 가벼울 거예요.\n첫날부터 완벽하지 않아도, 당신은 이미 잘하고 있어요.\n\n🌃 잠 못 드는 당신에게\n⏰ 알람이 두려운 당신에게\n🌅 출근길에 선 당신에게\n\n저장해두고 지칠 때 다시 꺼내보세요.\n내일 함께 출근할 동료에게 공유해도 좋아요.\n📌 매일 저녁 위로 글귀 @romance_lifebutler\n\n#좋은글귀 #위로글귀 #응원글귀 #월요병 #오늘의문장",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-08-holiday-end-202610081448/good_words_reel.mp4",
       "cover_ms": 9500
+    },
+    {
+      "id": "jp_cardnews-20261008-044-reel",
+      "channel": "jp_cardnews",
+      "handle": "kculture_japan",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-10-12T12:30:00+09:00",
+      "caption": "知らないと損！韓国旅行2026、入国と地下鉄の最新ルール7つ✈️\n\n韓国旅行の前に知っておきたい入国と地下鉄のルールを、24秒でまとめてチェック。\nK-ETAの免除期限から、電子入国申告、券売機の海外カード、乗り放題の気候同行カードまで。\n\nQ. 2026年、韓国旅行にK-ETAは必要？\nA. 日本のパスポートなら2026年12月31日まで申請は不要。その場合は到着3日前から電子入国申告（e-Arrival Card）をしておこう。\n\n📍K-ETA免除／e-Arrival Card／券売機で海外カード／気候同行カード短期券（1日5,000ウォン〜）／使える範囲／払い戻し\n\n申告はURLが「.go.kr」の公式サイトで。\n動画を保存して、出発前に見返してね。\n韓国旅行の最新情報は @kculture_japan をフォロー♡\n※一部写真はイメージです\n\n#韓国旅行 #ソウル旅行 #韓国旅行準備 #韓国入国 #ソウル地下鉄",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-10-korea-entry-subway-202610081628/card_reel.mp4",
+      "cover_ms": 1500
     }
   ]
 }
