@@ -34,5 +34,23 @@
     "permalink": "https://www.instagram.com/p/DeIc2Mdk9bc/",
     "media_id": "18032749382674179",
     "note": "이미 게시돼 있음(기록만)"
+  },
+  "jp_reels-20261008-075": {
+    "status": "published",
+    "at": "2026-10-09T19:22:57+09:00",
+    "channel": "jp_reels",
+    "due": "2026-10-09T18:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeRSPm8jA-Q/",
+    "media_id": "18166317520467546",
+    "note": ""
+  },
+  "kr_reels-20261007-037": {
+    "status": "published",
+    "at": "2026-10-09T19:22:57+09:00",
+    "channel": "kr_reels",
+    "due": "2026-10-09T18:30:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeRSTelFT0s/",
+    "media_id": "17992058190096955",
+    "note": ""
   }
 }
