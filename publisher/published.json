@@ -52,5 +52,17 @@
     "permalink": "https://www.instagram.com/reel/DeRSTelFT0s/",
     "media_id": "17992058190096955",
     "note": ""
+  },
+  "kr_support-20261004-003-reel": {
+    "status": "missed",
+    "at": "2026-10-10T16:15:17+09:00",
+    "channel": "kr_support",
+    "due": "2026-10-10T12:30:00+09:00"
+  },
+  "jp_cardnews-20261008-044": {
+    "status": "missed",
+    "at": "2026-10-10T16:15:17+09:00",
+    "channel": "jp_cardnews",
+    "due": "2026-10-10T12:30:00+09:00"
   }
 }
