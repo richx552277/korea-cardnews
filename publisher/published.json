@@ -99,5 +99,14 @@
     "at": "2026-10-11T22:04:16+09:00",
     "channel": "kr_reels",
     "due": "2026-10-11T18:30:00+09:00"
+  },
+  "jp_cardnews-20261008-044-reel": {
+    "status": "published",
+    "at": "2026-10-12T15:36:35+09:00",
+    "channel": "jp_cardnews",
+    "due": "2026-10-12T12:30:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeYmuOOAKMH/",
+    "media_id": "17981982186093762",
+    "note": ""
   }
 }
