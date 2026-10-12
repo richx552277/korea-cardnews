@@ -27,13 +27,12 @@
     "note": ""
   },
   "kr_support-20261004-002-reel": {
-    "status": "published",
-    "at": "2026-10-09T14:58:41+09:00",
+    "status": "missed",
+    "at": "2026-10-12T12:22:00+09:00",
     "channel": "kr_support",
     "due": "2026-10-09T12:30:00+09:00",
-    "permalink": "https://www.instagram.com/p/DeIc2Mdk9bc/",
-    "media_id": "18032749382674179",
-    "note": "이미 게시돼 있음(기록만)"
+    "note": "2026-10-12 정정: 캡션 앞 80자가 2화 캐러셀과 같아 중복으로 오판(실제 미게시, permalink는 캐러셀) → 다시 배정",
+    "wrong_permalink": "https://www.instagram.com/p/DeIc2Mdk9bc/"
   },
   "jp_reels-20261008-075": {
     "status": "published",
