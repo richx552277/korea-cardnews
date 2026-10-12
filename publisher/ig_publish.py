@@ -70,11 +70,14 @@ def wait_container(cid, token, tries=60, gap=5):
         raise IGError(f"처리 실패: {s}")
 
 
-def already_posted(uid, token, caption):
-    """최근 게시물 중 캡션 앞부분이 같은 것이 있으면 그 게시물 (결과 기록이 실패했던 경우 중복 방지)"""
+def already_posted(uid, token, caption, kind):
+    """최근 게시물 중 같은 형식이고 캡션이 같은 것이 있으면 그 게시물 (결과 기록이 실패했던 경우 중복 방지).
+    2026-10-12: 캡션 앞 80자만 비교하던 탓에 같은 회차 캐러셀과 릴스판(캡션 앞부분이 같음)을 중복으로 오판 →
+    형식(릴스=VIDEO, 캐러셀=CAROUSEL_ALBUM)까지 같을 때만 중복으로 본다(캡션은 인스타가 줄바꿈 등을 바꿀 수 있어 앞 80자 비교 유지)."""
+    want = "VIDEO" if kind == "reel" else "CAROUSEL_ALBUM"
     head = caption.strip()[:80]
-    media = ig("GET", f"{uid}/media", token, fields="id,caption,permalink,timestamp", limit="10").get("data", [])
-    return next((m for m in media if (m.get("caption") or "").strip()[:80] == head), None)
+    media = ig("GET", f"{uid}/media", token, fields="id,caption,permalink,timestamp,media_type", limit="10").get("data", [])
+    return next((m for m in media if m.get("media_type") == want and (m.get("caption") or "").strip()[:80] == head), None)
 
 
 def post(e, token):
@@ -82,7 +85,7 @@ def post(e, token):
     if me["username"].lower() != e["handle"].lower():
         raise IGError(f"@{e['handle']} 토큰이 아님(@{me['username']})")
     uid = me["user_id"]
-    dup = already_posted(uid, token, e["caption"])
+    dup = already_posted(uid, token, e["caption"], e["kind"])
     if dup:
         return dup["id"], dup["permalink"], "이미 게시돼 있음(기록만)"
     if e["kind"] == "reel":
