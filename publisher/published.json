@@ -27,12 +27,13 @@
     "note": ""
   },
   "kr_support-20261004-002-reel": {
-    "status": "missed",
-    "at": "2026-10-12T12:22:00+09:00",
+    "status": "published",
+    "at": "2026-10-12T21:45:47+09:00",
     "channel": "kr_support",
-    "due": "2026-10-09T12:30:00+09:00",
-    "note": "2026-10-12 정정: 캡션 앞 80자가 2화 캐러셀과 같아 중복으로 오판(실제 미게시, permalink는 캐러셀) → 다시 배정",
-    "wrong_permalink": "https://www.instagram.com/p/DeIc2Mdk9bc/"
+    "due": "2026-10-12T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeZRIc8DbvQ/",
+    "media_id": "17930495415419048",
+    "note": ""
   },
   "jp_reels-20261008-075": {
     "status": "published",
@@ -65,16 +66,22 @@
     "due": "2026-10-10T12:30:00+09:00"
   },
   "jp_reels-20261008-076": {
-    "status": "missed",
-    "at": "2026-10-10T22:47:48+09:00",
+    "status": "published",
+    "at": "2026-10-12T21:45:47+09:00",
     "channel": "jp_reels",
-    "due": "2026-10-10T18:00:00+09:00"
+    "due": "2026-10-12T18:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeZQ-HwgLQ0/",
+    "media_id": "18113974013593607",
+    "note": ""
   },
   "kr_reels-20261008-038": {
-    "status": "missed",
-    "at": "2026-10-10T22:47:48+09:00",
+    "status": "published",
+    "at": "2026-10-12T21:45:47+09:00",
     "channel": "kr_reels",
-    "due": "2026-10-10T18:30:00+09:00"
+    "due": "2026-10-12T18:30:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DeZRCdPgoRm/",
+    "media_id": "18117775483788541",
+    "note": ""
   },
   "jp_cardnews-20261007-042-reel": {
     "status": "published",
