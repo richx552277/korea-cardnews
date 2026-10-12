@@ -10,7 +10,7 @@
 schedule.json  (PC의 cloud_queue.py가 만든다) {"items": [{id, channel, handle, token_env, kind, due, caption, video_url, cover_ms, image_urls, alt}]}
 published.json (이 스크립트가 쓴다)          {"<id>": {status: published|failed|missed|duplicate, at, permalink, media_id, error, attempts}}
 규칙
-  - due가 지나고 3시간 안인 항목만 게시. 3시간이 지나면 missed — PC가 다음 빈 날로 다시 잡는다
+  - due가 지나고 6시간(LATE_LIMIT) 안인 항목만 게시. 지나면 missed — PC가 다음 빈 날로 다시 잡는다
   - 채널당 하루(KST) 1개 — 같은 날 이미 게시한 채널은 duplicate
   - 실패는 3번까지 다음 실행에서 다시 시도
   - 게시 직전 최근 게시물 캡션을 확인해 이미 올라간 것이면 다시 올리지 않는다(결과 기록 실패 대비)
@@ -30,7 +30,7 @@ SCHEDULE = HERE / "schedule.json"
 RESULTS = HERE / "published.json"
 IG_API = "https://graph.instagram.com/v23.0"
 KST = timezone(timedelta(hours=9))
-LATE_LIMIT = timedelta(hours=3)
+LATE_LIMIT = timedelta(hours=6)  # 2026-10-12 3→6시간: Actions 예약 실행이 1~4.8시간 밀려 놓침이 잦음
 MAX_ATTEMPTS = 3
 
 
@@ -147,6 +147,8 @@ def main():
     changed = False
     for e in sorted(items, key=lambda x: x["due"]):
         r = res.get(e["id"], {})
+        if r.get("status") != "published" and r.get("due") != e["due"]:
+            r = {}  # 다른 시각으로 다시 배정된 일정 — 예전 놓침·실패 결과는 무시 (게시됨은 중복 방지로 항상 확정)
         if r.get("status") in ("published", "missed", "duplicate") or r.get("attempts", 0) >= MAX_ATTEMPTS:
             continue
         due = datetime.fromisoformat(e["due"])
@@ -163,7 +165,7 @@ def main():
         if now - due > LATE_LIMIT:
             res[e["id"]] = {"status": "missed", "at": stamp, "channel": e["channel"], "due": e["due"]}
             changed = True
-            print(f"[{e['channel']}] {e['id']} 놓침 — 예정 {e['due']}, 3시간 초과 (PC가 다시 잡음)")
+            print(f"[{e['channel']}] {e['id']} 놓침 — 예정 {e['due']}, LATE_LIMIT 초과 (PC가 다시 잡음)")
             continue
         print(f"[{e['channel']}] {e['id']} {e['kind']} 게시 대상 (예정 {e['due']})" + (" — 미리보기" if dry else ""))
         if dry:
