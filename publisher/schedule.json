@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T12:30:02+09:00",
+  "updated": "2026-10-12T14:54:54+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
     "IG_TOKEN_ROMANCE_JP": "Life_Romera",
@@ -129,7 +129,7 @@
       "kind": "reel",
       "due": "2026-10-12T18:00:00+09:00",
       "caption": "心に響く言葉｜冷たい朝にも、露は光る🍂\nいまは二十四節気の「寒露」(10月22日まで)。草木に冷たい露が降りるころです。\n朝の空気がひんやりして、心まで少し冷えた気がする日もあるけれど、\n冷えた心は、ゆっくり温め直せばいい。季節の変わり目は、揺れても休んでも大丈夫。\n保存して、疲れた日にまた読み返してね\n📌 毎日、心に寄り添うひとこと @Life_Romera\n#心に響く言葉 #癒しの言葉 #寒露 #秋の言葉 #前向きな言葉",
-      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-08-kanro-202610121230/good_words_reel.mp4",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-08-kanro-202610121455/good_words_reel.mp4",
       "cover_ms": 9500
     },
     {
@@ -140,7 +140,29 @@
       "kind": "reel",
       "due": "2026-10-12T18:30:00+09:00",
       "caption": "위로글귀 🍂 혼자인 시간도, 나를 돌보는 시간이에요\n\n요즘 혼자 있고 싶은 날이 많아졌나요?\n약속을 미루고 집에 온 날, 혼자 먹는 저녁이 익숙해진 날.\n그건 외로운 게 아니라 마음이 쉬어 갈 자리를 찾는 중이에요.\n조용한 밤, 오늘의 나에게 잘했다고 말해 주세요.\n\n🏠 약속을 미룬 당신에게\n🍵 혼자 밥 먹는 당신에게\n🌙 밤이 편한 당신에게\n\n저장해두고 지칠 때 다시 꺼내보세요.\n혼자만의 시간이 필요한 친구에게 공유해도 좋아요.\n📌 매일 저녁 위로 글귀 @romance_lifebutler\n\n#좋은글귀 #위로글귀 #가을글귀 #힐링글귀 #오늘의문장",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-08-alone-time-202610121230/good_words_reel.mp4",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-08-alone-time-202610121454/good_words_reel.mp4",
+      "cover_ms": 9500
+    },
+    {
+      "id": "jp_reels-20261012-077",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-13T18:00:00+09:00",
+      "caption": "心に響く言葉｜長い夜は、心をほどく時間🌙 今日のひとこと #1\n秋分を過ぎて、夜が少しずつ長くなる「秋の夜長」の季節。\n一日じゅう気を張っていた心も、長い夜なら、ゆっくりほどいていけます。\n眠れない夜は、無理に眠ろうとしなくて大丈夫。目を閉じて休むだけで、じゅうぶんです。\n保存して、疲れた日にまた読み返してね\n#心に響く言葉 #癒しの言葉 #秋の夜長 #秋の言葉\nフォローで毎晩ひとことが届きます · 次回: 実りの秋",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-12-yonaga-202610121455/good_words_reel.mp4",
+      "cover_ms": 9500
+    },
+    {
+      "id": "kr_reels-20261008-039",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-13T18:30:00+09:00",
+      "caption": "위로글귀 🌙 연휴 끝, 내일의 나를 응원해요\n\n연휴가 끝나 가는 밤, 내일 출근 생각에 마음이 무거운가요?\n일요일 밤 잠이 잘 안 오고, 아침 알람이 유난히 두렵게 느껴질 때.\n쉬는 동안 잘 채웠으니 내일은 생각보다 가벼울 거예요.\n첫날부터 완벽하지 않아도, 당신은 이미 잘하고 있어요.\n\n🌃 잠 못 드는 당신에게\n⏰ 알람이 두려운 당신에게\n🌅 출근길에 선 당신에게\n\n저장해두고 지칠 때 다시 꺼내보세요.\n내일 함께 출근할 동료에게 공유해도 좋아요.\n📌 매일 저녁 위로 글귀 @romance_lifebutler\n\n#좋은글귀 #위로글귀 #응원글귀 #월요병 #오늘의문장",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-08-holiday-end-202610121455/good_words_reel.mp4",
       "cover_ms": 9500
     },
     {
@@ -155,15 +177,37 @@
       "cover_ms": 1000
     },
     {
-      "id": "kr_reels-20261008-039",
+      "id": "jp_reels-20261012-078",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-14T18:00:00+09:00",
+      "caption": "心に響く言葉｜時間をかけたものほど、ちゃんと実る🌾 今日のひとこと #2\n秋は、稲や果物が実る「実りの秋」。9月から10月にかけて、新米もお店に並びます。\n実るまでに時間がかかるのは、お米もあなたの努力も同じ。\n結果がまだ見えなくても、見えない所で根はちゃんと伸びています。胸を張って、進もう。\n保存して、疲れた日にまた読み返してね\n#心に響く言葉 #前向きな言葉 #実りの秋 #秋の言葉\nフォローで毎晩ひとことが届きます · 次回: 霜降",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-12-minori-202610121455/good_words_reel.mp4",
+      "cover_ms": 9500
+    },
+    {
+      "id": "kr_reels-20261012-040",
       "channel": "kr_reels",
       "handle": "romance_lifebutler",
       "token_env": "IG_TOKEN_ROMANCE_KR",
       "kind": "reel",
-      "due": "2026-10-13T18:30:00+09:00",
-      "caption": "위로글귀 🌙 연휴 끝, 내일의 나를 응원해요\n\n연휴가 끝나 가는 밤, 내일 출근 생각에 마음이 무거운가요?\n일요일 밤 잠이 잘 안 오고, 아침 알람이 유난히 두렵게 느껴질 때.\n쉬는 동안 잘 채웠으니 내일은 생각보다 가벼울 거예요.\n첫날부터 완벽하지 않아도, 당신은 이미 잘하고 있어요.\n\n🌃 잠 못 드는 당신에게\n⏰ 알람이 두려운 당신에게\n🌅 출근길에 선 당신에게\n\n저장해두고 지칠 때 다시 꺼내보세요.\n내일 함께 출근할 동료에게 공유해도 좋아요.\n📌 매일 저녁 위로 글귀 @romance_lifebutler\n\n#좋은글귀 #위로글귀 #응원글귀 #월요병 #오늘의문장",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-08-holiday-end-202610121230/good_words_reel.mp4",
+      "due": "2026-10-14T18:30:00+09:00",
+      "caption": "위로글귀 📚 시험기간, 오늘도 버틴 당신에게 · 오늘의 한마디 No.1\n\n요즘 시험 준비로 많이 지쳤나요?\n늦은 밤까지 책상 앞에 앉아 있는 시간, 불안한 마음이 자꾸 고개를 들 때.\n불안한 건 그만큼 간절하다는 뜻이에요.\n점수보다 먼저, 오늘을 버틴 나를 꼭 안아주세요.\n\n✏️ 애쓰고 있는 당신에게\n🌙 불안한 당신에게\n🍂 오늘도 버틴 당신에게\n\n저장해 두고 힘들 때 다시 보기.\n시험 준비 중인 친구에게 공유해도 좋아요.\n팔로우하면 매일 저녁 한 줄 위로가 도착해요 · 다음: 남과 비교하게 되는 당신에게\n\n#좋은글귀 #위로글귀 #시험기간 #공부자극 #오늘의문장",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-12-exam-season-202610121455/good_words_reel.mp4",
       "cover_ms": 9500
+    },
+    {
+      "id": "kr_support-20261004-003-reel",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-10-14T20:00:00+09:00",
+      "caption": "자영업자 육아수당 150만원, 프리랜서도 받을 수 있을까? ☕\n\n마감 후 텅 빈 카페, 금동이의 한숨.\n\"회사원은 육아휴직 급여 받는데… 나는 가게 닫으면 0원이야.\"\n그런데 내년에 자영업자·프리랜서를 위한 육아수당이 새로 생긴대요!\n\n✅ 육아수당(예정): 월 50만원 × 3개월 = 150만원, 2027년 첫 지급 목표\n✅ 대상: 1인 자영업자 · 특고·프리랜서 · 고용보험 가입 180일 미만 근로자 · 4인 이하 농어업 종사자\n✅ 출산급여(지금도 있음)와는 달라요 — 출산급여는 출산할 때, 육아수당은 그 뒤 육아할 때\n\nQ. 직원이 있는 사장님도 받을 수 있나요?\nA. 지금 발표된 대상은 1인 자영업자 기준이에요. 자녀 나이·신청 방법 같은 세부 조건은 확정 후 안내될 예정이에요.\n\n⚠ 고용노동부 2027 예산안 기준이에요. 국회 확정 전이라 바뀔 수 있고, 약 6,100명 규모라 공고가 나오면 바로 알려드릴게요.\n\n📌 영상으로 보고, 저장해 두고 자영업·프리랜서 친구에게 공유해 주세요\n👉 다음 화: 아동수당이 월 20만원이 된다고? (4)\n💬 자영업·프리랜서 부부, 어떤 지원이 제일 필요해요?\n\n출처: 고용노동부 예산안 보도(2026.9) · 헤럴드경제(2025.7) (기준일 2026.10.4)\n\n#육아수당 #자영업자 #프리랜서 #정부지원금 #육아지원금",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-10-05-ep03-selfemployed-150-202610121231/toon_reel.mp4",
+      "cover_ms": 1000
     },
     {
       "id": "jp_cardnews-20261008-044",
@@ -195,17 +239,6 @@
         "ソウル地下鉄のルール⑦気候同行カード短期券はチャージした日が1日目で最終日の終電まで。払い戻しは期間中だけ、手数料500ウォン。",
         "ソウルの地下鉄で使える韓国語「チュルグガ オディエヨ（出口はどこですか）」「オディソ カラタヨ（どこで乗り換えますか）」などと観光案内1330の番号。"
       ]
-    },
-    {
-      "id": "kr_support-20261004-003-reel",
-      "channel": "kr_support",
-      "handle": "batja.toon",
-      "token_env": "IG_TOKEN_SUPPORT",
-      "kind": "reel",
-      "due": "2026-10-14T20:00:00+09:00",
-      "caption": "자영업자 육아수당 150만원, 프리랜서도 받을 수 있을까? ☕\n\n마감 후 텅 빈 카페, 금동이의 한숨.\n\"회사원은 육아휴직 급여 받는데… 나는 가게 닫으면 0원이야.\"\n그런데 내년에 자영업자·프리랜서를 위한 육아수당이 새로 생긴대요!\n\n✅ 육아수당(예정): 월 50만원 × 3개월 = 150만원, 2027년 첫 지급 목표\n✅ 대상: 1인 자영업자 · 특고·프리랜서 · 고용보험 가입 180일 미만 근로자 · 4인 이하 농어업 종사자\n✅ 출산급여(지금도 있음)와는 달라요 — 출산급여는 출산할 때, 육아수당은 그 뒤 육아할 때\n\nQ. 직원이 있는 사장님도 받을 수 있나요?\nA. 지금 발표된 대상은 1인 자영업자 기준이에요. 자녀 나이·신청 방법 같은 세부 조건은 확정 후 안내될 예정이에요.\n\n⚠ 고용노동부 2027 예산안 기준이에요. 국회 확정 전이라 바뀔 수 있고, 약 6,100명 규모라 공고가 나오면 바로 알려드릴게요.\n\n📌 영상으로 보고, 저장해 두고 자영업·프리랜서 친구에게 공유해 주세요\n👉 다음 화: 아동수당이 월 20만원이 된다고? (4)\n💬 자영업·프리랜서 부부, 어떤 지원이 제일 필요해요?\n\n출처: 고용노동부 예산안 보도(2026.9) · 헤럴드경제(2025.7) (기준일 2026.10.4)\n\n#육아수당 #자영업자 #프리랜서 #정부지원금 #육아지원금",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-10-05-ep03-selfemployed-150-202610121231/toon_reel.mp4",
-      "cover_ms": 1000
     }
   ]
 }
