@@ -177,17 +177,6 @@
       "cover_ms": 1000
     },
     {
-      "id": "jp_cardnews-20261012-046-reel",
-      "channel": "jp_cardnews",
-      "handle": "kculture_japan",
-      "token_env": "IG_TOKEN_KCULTURE",
-      "kind": "reel",
-      "due": "2026-10-13T20:30:00+09:00",
-      "caption": "夜のソウルで見られる光のアート5選✨ 2026年秋の夜さんぽ\n\nソウルの建物や橋がスクリーンになる屋外メディアアートを、24秒でまとめてチェック。\n光化門・清渓川・漢江のノドゥル島・ソウル駅の5か所と、上手な回り方まで。\n\nQ. ソウルの夜、無料で楽しめるスポットは？\nA. 光化門の「アトリエ光化」は入場無料。世宗文化会館の外壁に毎日19時から23時まで作品が映し出されるよ。\n\n📍アトリエ光化／ヘチマダン／オガンス橋／アトリエ・ノドゥル（10/31まで）／ソウル路メディアキャンバス\n\n場所ごとに期間がちがうから、動画を保存して旅行前に見返してね📌\n※写真はイメージです\nフォローで次のソウル特集を見逃さない♡ 次回：冬のソウル特集\n\n#韓国旅行 #ソウル旅行 #ソウル夜景 #光化門 #メディアアート",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-10-seoul-night-mediaart-202610121606/card_reel.mp4",
-      "cover_ms": 1500
-    },
-    {
       "id": "jp_reels-20261012-078",
       "channel": "jp_reels",
       "handle": "Life_Romera",
