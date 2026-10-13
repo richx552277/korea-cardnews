@@ -54,10 +54,13 @@
     "note": ""
   },
   "kr_support-20261004-003-reel": {
-    "status": "missed",
-    "at": "2026-10-10T16:15:17+09:00",
+    "status": "published",
+    "at": "2026-10-13T20:02:10+09:00",
     "channel": "kr_support",
-    "due": "2026-10-10T12:30:00+09:00"
+    "due": "2026-10-13T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/Debp6WAE38B/",
+    "media_id": "18446979742130022",
+    "note": ""
   },
   "jp_cardnews-20261008-044": {
     "status": "missed",
