@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T12:30:02+09:00",
+  "updated": "2026-10-14T14:22:25+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
     "IG_TOKEN_ROMANCE_JP": "Life_Romera",
@@ -188,6 +188,28 @@
       "cover_ms": 1500
     },
     {
+      "id": "jp_reels-20261014-080",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-15T18:00:00+09:00",
+      "caption": "癒しの言葉｜連休明けの夜に　ロメラの夜の灯り No.1 🏮\n\n夜道で灯りを持って待っている、旅の仲間ロメラです。\n連休が終わって、体も心もまだ追いつかない。そんな夜もあるよね。\nゆっくり戻ればいいんだよ。\n今夜のひとつ：スマホを置いて、いつもより少し早く眠ろう。\n保存して、疲れた日に見返してね。\n頑張ってる友だちに、灯りを送ってね。\nフォローで、また明日の夜に。次回は「ともりの今夜のヒント」。\n\n#心に響く言葉 #癒しの言葉 #連休明け #夜の言葉 #ひとりごと",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-14-char01-romera-afterholiday-202610141422/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261014-042",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-15T18:30:00+09:00",
+      "caption": "좋은글귀 · 아침저녁 쌀쌀해진 당신에게 「세바스의 오늘의 처방 No.1」 🧥\n\n낭만 저택의 집사 세바스가 오늘의 처방을 준비했습니다.\n낮에는 따뜻해도 저녁 공기는 벌써 차가워졌습니다.\n퇴근길 바람이 생각보다 차게 느껴지셨다면, 준비 하나면 충분합니다.\n\n챙겨 둔 겉옷 하나가 하루를 지켜 줍니다.\n\n오늘의 처방: 가방에 얇은 겉옷 하나, 그리고 따뜻한 물 한 잔.\n저장해 두고 쌀쌀한 아침에 다시 보세요.\n\n고생한 사람에게 세바스를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #환절기 #가을저녁 #오늘의처방",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char02-sebas-chilly-202610141422/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "kr_support-20261012-008-reel",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -208,6 +230,28 @@
       "caption": "知らないと損！ソウルの深夜タクシー割増 ハルのソウル日記 No.3\n\n夜ごはんのあと「タクシーで帰ろ〜」のハル。でも時間帯で料金が変わるって知ってた？\nマンガ9ページで、ソウルのタクシー深夜割増をまとめたよ。\n\nQ. ソウルのタクシーは何時から高くなる？\nA. ソウル市によると、中型タクシーは22時〜翌4時が深夜割増。22〜23時と2〜4時は20%、いちばん高い23時〜2時は40%。\n\n✔ 22時前に移動すれば割増なし（基本4,800ウォン〜）\n✔ 23時〜2時は割増40%の時間帯\n✔ 地下鉄・バスの終電時間も駅で確認\n\nソウルの中型タクシーの場合です。料金は変わることがあるので乗る前に確認してね。\n保存して旅行前に見返してね📌（8ページ目がまとめ）\nフォローで次のソウル特集を見逃さない♡ 次回：韓国コンビニでできる便利ワザ\n\n#韓国旅行 #ソウル旅行 #韓国タクシー #韓国旅行情報 #ソウル観光",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-10-13-toon03-night-taxi-202610131551/toon_reel.mp4",
       "cover_ms": 1500
+    },
+    {
+      "id": "jp_reels-20261014-081",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-16T18:00:00+09:00",
+      "caption": "癒しの言葉｜冷え込む夜に　ともりの今夜のヒント No.1 🏮\n\n夜の旅の仲間、小さな灯りのともりです。\n朝晩が急に寒くなって、体がこわばる季節になりましたね。\nまずは足もとから温めましょう。\n今夜のヒント：靴下をはいて、温かい飲み物をゆっくりどうぞ。\n保存して、疲れた日に見返してね。\n頑張ってる友だちに、灯りを送ってね。\nフォローで、また明日の夜に。次回は「ねむの一言」。\n\n#心に響く言葉 #癒しの言葉 #冷え込む夜 #夜の言葉 #ひとりごと",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-14-char02-tomori-chilly-202610141422/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261014-043",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-16T18:30:00+09:00",
+      "caption": "감성글귀 · 잠 못 드는 당신에게 「모노의 한마디 No.1」 🌙\n\n낭만 저택의 막내 집사 모노가 짧게 한마디 합니다.\n가을밤이 길어지니 화면 하나만 더, 영상 하나만 더 보다가 어느새 새벽이 되곤 하죠.\n내일의 나를 위해 오늘은 조금 일찍 멈춰도 괜찮아요.\n\n오늘은 여기까지.\n\n오늘의 처방: 휴대폰은 침대 밖에 두고 불 끄기.\n저장해 두고 잠 못 드는 밤에 다시 보세요.\n\n고생한 사람에게 모노를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #감성글귀 #가을밤 #잠못드는밤",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char03-mono-sleepless-202610141422/toon_reel.mp4",
+      "cover_ms": 1000
     },
     {
       "id": "kr_support-20261013-010-reel",
