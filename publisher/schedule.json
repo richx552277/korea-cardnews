@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:30:03+09:00",
+  "updated": "2026-10-15T14:18:41+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
     "IG_TOKEN_ROMANCE_JP": "Life_Romera",
@@ -199,17 +199,6 @@
       "cover_ms": 1000
     },
     {
-      "id": "kr_reels-20261014-042",
-      "channel": "kr_reels",
-      "handle": "romance_lifebutler",
-      "token_env": "IG_TOKEN_ROMANCE_KR",
-      "kind": "reel",
-      "due": "2026-10-15T18:30:00+09:00",
-      "caption": "좋은글귀 · 아침저녁 쌀쌀해진 당신에게 「세바스의 오늘의 처방 No.1」 🧥\n\n낭만 저택의 집사 세바스가 오늘의 처방을 준비했습니다.\n낮에는 따뜻해도 저녁 공기는 벌써 차가워졌습니다.\n퇴근길 바람이 생각보다 차게 느껴지셨다면, 준비 하나면 충분합니다.\n\n챙겨 둔 겉옷 하나가 하루를 지켜 줍니다.\n\n오늘의 처방: 가방에 얇은 겉옷 하나, 그리고 따뜻한 물 한 잔.\n저장해 두고 쌀쌀한 아침에 다시 보세요.\n\n고생한 사람에게 세바스를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #환절기 #가을저녁 #오늘의처방",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char02-sebas-chilly-202610141422/toon_reel.mp4",
-      "cover_ms": 1000
-    },
-    {
       "id": "kr_support-20261012-008-reel",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -243,14 +232,14 @@
       "cover_ms": 1000
     },
     {
-      "id": "kr_reels-20261014-043",
+      "id": "kr_reels-20261014-042",
       "channel": "kr_reels",
       "handle": "romance_lifebutler",
       "token_env": "IG_TOKEN_ROMANCE_KR",
       "kind": "reel",
       "due": "2026-10-16T18:30:00+09:00",
-      "caption": "감성글귀 · 잠 못 드는 당신에게 「모노의 한마디 No.1」 🌙\n\n낭만 저택의 막내 집사 모노가 짧게 한마디 합니다.\n가을밤이 길어지니 화면 하나만 더, 영상 하나만 더 보다가 어느새 새벽이 되곤 하죠.\n내일의 나를 위해 오늘은 조금 일찍 멈춰도 괜찮아요.\n\n오늘은 여기까지.\n\n오늘의 한마디: 휴대폰은 침대 밖에 두고 불 끄기.\n저장해 두고 잠 못 드는 밤에 다시 보세요.\n\n고생한 사람에게 모노를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #감성글귀 #가을밤 #잠못드는밤",
-      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char03-mono-sleepless-202610141434/toon_reel.mp4",
+      "caption": "좋은글귀 · 아침저녁 쌀쌀해진 당신에게 「세바스의 오늘의 처방 No.1」 🧥\n\n낭만 저택의 집사 세바스가 오늘의 처방을 준비했습니다.\n낮에는 따뜻해도 저녁 공기는 벌써 차가워졌습니다.\n퇴근길 바람이 생각보다 차게 느껴지셨다면, 준비 하나면 충분합니다.\n\n챙겨 둔 겉옷 하나가 하루를 지켜 줍니다.\n\n오늘의 처방: 가방에 얇은 겉옷 하나, 그리고 따뜻한 물 한 잔.\n저장해 두고 쌀쌀한 아침에 다시 보세요.\n\n고생한 사람에게 세바스를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #환절기 #가을저녁 #오늘의처방",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char02-sebas-chilly-202610141422/toon_reel.mp4",
       "cover_ms": 1000
     },
     {
@@ -276,6 +265,28 @@
       "cover_ms": 1000
     },
     {
+      "id": "jp_reels-20261015-082",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-17T18:00:00+09:00",
+      "caption": "癒しの言葉｜寒暖差に疲れた夜に ねむの一言 No.1 🐑\n\n夜の旅の仲間、いつも眠たいねむからのひとこと。\n朝は寒くて、昼は暑くて、夜はまた冷える。\n着るものも気持ちも追いつかなくて、なんだか一日中だるかった人へ。\n\n今日は、もう寝よ。\n\n今夜のひとつ：毛布を一枚出して、早めに布団へ。\n保存して、疲れた日に見返してね。\n\nお疲れの友だちに、灯りを送ってね\nフォローで、また明日の夜に\n\n#心に響く言葉 #癒しの言葉 #寒暖差 #おやすみ #秋の夜",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-15-char03-nemu-tempgap-202610151419/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261014-043",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-17T18:30:00+09:00",
+      "caption": "감성글귀 · 잠 못 드는 당신에게 「모노의 한마디 No.1」 🌙\n\n낭만 저택의 막내 집사 모노가 짧게 한마디 합니다.\n가을밤이 길어지니 화면 하나만 더, 영상 하나만 더 보다가 어느새 새벽이 되곤 하죠.\n내일의 나를 위해 오늘은 조금 일찍 멈춰도 괜찮아요.\n\n오늘은 여기까지.\n\n오늘의 한마디: 휴대폰은 침대 밖에 두고 불 끄기.\n저장해 두고 잠 못 드는 밤에 다시 보세요.\n\n고생한 사람에게 모노를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #감성글귀 #가을밤 #잠못드는밤",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-14-char03-mono-sleepless-202610141434/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "kr_support-20261014-012",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -298,6 +309,28 @@
       "cover_ms": 1000
     },
     {
+      "id": "jp_reels-20261015-083",
+      "channel": "jp_reels",
+      "handle": "Life_Romera",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-10-18T18:00:00+09:00",
+      "caption": "心に響く言葉｜暗くなるのが早い夜に ロメラの夜の灯り No.2 🏮\n\n夜の旅の仲間、灯りを持ったロメラからのひとこと。\n仕事を終えて外に出たら、もう真っ暗。\nまだ何もできていない気がして、少しさみしくなった人へ。\n\n早く暗くなった日は、早く休んでいいよ。\n\n今夜のひとつ：部屋の灯りを少し落として、ゆっくり過ごそう。\n保存して、疲れた日に見返してね。\n\nお疲れの友だちに、灯りを送ってね\nフォローで、また明日の夜に\n\n#心に響く言葉 #癒しの言葉 #秋の夜長 #夜の言葉 #ひとやすみ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/2026-10-15-char04-romera-earlydark-202610151419/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261015-044",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-18T18:30:00+09:00",
+      "caption": "감성글귀 | 가을 타는 당신에게 로만의 하루 끝 위로 No.2 🍂\n\n낭만 저택의 고양이 집사 로만이 오늘도 현관에서 기다렸어요.\n해가 부쩍 짧아진 요즘, 이유 없이 마음이 허전한 저녁이 있죠.\n그건 당신이 약해서가 아니라 계절이 바뀌고 있어서예요.\n\n\"쓸쓸한 마음도 계절이 주는 쉼표예요.\"\n\n오늘 밤엔 따뜻한 차 한 잔, 그리고 좋아하는 노래 한 곡이면 충분해요.\n저장해 두고 마음이 허전한 날 다시 보기.\n\n고생한 사람에게 로만을 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #감성글귀 #가을글귀 #하루끝위로",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-15-char04-roman-autumn-202610151418/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "kr_support-20261014-013",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -306,6 +339,17 @@
       "due": "2026-10-18T20:00:00+09:00",
       "caption": "부모급여, 어린이집 보내면 끊길까? 많이 묻는 질문 👶\n받을건받자툰 Q&A No.1\n\n금동이가 \"어린이집 가면 부모급여는 끝 아냐?\" 하고 물었어요.\n지원이 답은 \"0세는 차액이 현금으로 나와!\"\n\n✅ 0세: 보육료 58.4만원 + 현금 차액 41.6만원\n✅ 1세: 보육료로 대신 지급, 현금 차액 없음\n✅ 차액은 다음 달 20일 지급 · 보육료는 따로 신청\n\nQ. 집에서 키우면요?\nA. 0세 월 100만원 · 1세 월 50만원을 매월 25일 현금으로 받아요.\n\n⚠ 2026년 기준이에요. 기본보육료가 바뀌면 차액도 달라질 수 있어요\n📌 멈춰서 보려면 저장해 두고 어린이집 입소 전에 다시 보세요\n👉 지금 받는 돈 전체는 5화에 — 팔로우하면 다음 화도 바로 받아요\n💬 어린이집 보내기 전에 궁금한 거 있어요?\n\n출처: 정책브리핑 「2026년 부모급여, 이렇게 지원합니다!」(2026.1.14) · 기준일 2026.10.14\n\n#정부지원금 #육아지원금 #부모급여 #육아정보 #예비맘",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-10-14-qa01-daycare-parent-pay-202610141614/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261015-045",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-19T18:30:00+09:00",
+      "caption": "위로글귀 | 시험공부에 지친 당신에게 세바스의 오늘의 처방 No.2 📚\n\n낭만 저택의 집사 세바스가 오늘의 처방을 들고 왔습니다.\n책상 앞에 오래 앉아 있느라 어깨도 마음도 굳어 있으셨지요.\n\n\"굳은 어깨부터 풀어 주십시오.\"\n\n오늘의 처방: 창문 열고 기지개 한 번, 그리고 물 한 잔.\n저장해 두고 공부하다 지칠 때 다시 보기.\n\n고생한 사람에게 세바스를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n\n#좋은글귀 #위로글귀 #시험공부 #공부자극 #오늘의처방",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-15-char05-sebas-study-202610151418/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
