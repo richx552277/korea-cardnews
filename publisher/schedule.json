@@ -1,8 +1,7 @@
 {
-  "updated": "2026-10-20T12:30:04+09:00",
+  "updated": "2026-10-20T14:15:17+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
-    "IG_TOKEN_ROMANCE_JP": "Life_Romera",
     "IG_TOKEN_KCULTURE": "kculture_japan",
     "IG_TOKEN_SUPPORT": "batja.toon"
   },
@@ -441,6 +440,17 @@
       "cover_ms": 1000
     },
     {
+      "id": "kr_reels-20261020-048",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-22T18:30:00+09:00",
+      "caption": "위로글귀 | 월요일 아침이 무거운 당신에게 로만의 하루 끝 위로 No.3 🌙\n\n낭만 저택의 집사 로만이 오늘도 현관에서 기다렸어요.\n알람 소리에 겨우 눈을 뜨고, 무거운 발걸음으로 한 주를 시작하셨지요.\n그 무게를 안고도 오늘 하루를 끝까지 걸어온 당신, 정말 애쓰셨어요.\n\n\"월요일을 넘긴 것만으로 충분해요.\"\n\n오늘 밤의 위로: 내일 옷 꺼내 두고, 휴대폰 내려놓고, 조금 일찍 눕기.\n저장해 두고 월요일 아침이 무거울 때 다시 보기.\n\n💬 월요일을 버티게 해 준 당신의 한 가지는 뭔가요?\n고생한 사람에게 로만을 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n다음: 세바스의 오늘의 처방 — 퇴근길이 어두워진 당신에게\n\n#좋은글귀 #위로글귀 #월요일 #월요병 #힐링글귀",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-20-char08-roman-monday-202610201415/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "jp_cardnews-20261019-057",
       "channel": "jp_cardnews",
       "handle": "kculture_japan",
@@ -449,6 +459,17 @@
       "due": "2026-10-22T20:30:00+09:00",
       "caption": "韓国旅行でチップは必要？よくある質問 ハルのソウル日記\n\nお会計のとき「チップって置くの？」と迷ったハル。ミナの答えはシンプルでした！\n\nQ. 韓国の食堂やタクシーでチップは必要？\nA. 韓国観光公社の案内では、韓国ではチップは基本的に不要だよ。\n\n✔ 食堂ではチップは不要\n✔ タクシーもメーター料金でOK\n✔ 水・おかずのおかわりは多くのお店で無料\n\n※おかわりのルールはお店によって違います。気になったらお店で確認してね。\n\n保存して旅行前に見返してね📌\n\n💬 韓国で一番食べたいものは？\n\n#韓国旅行 #ソウル旅行 #韓国旅行準備 #韓国マナー #韓国グルメ\nフォローで次のソウル特集を見逃さない♡ 次回：冬の韓国コンビニ、何がある？（No.7）",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-10-19-qa02-tipping-202610191612/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261020-049",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-23T18:30:00+09:00",
+      "caption": "좋은글귀 | 퇴근길이 어두워진 당신에게 세바스의 오늘의 처방 No.3 🕯️\n\n낭만 저택의 집사 세바스가 현관 불을 켜 두고 기다렸습니다.\n요즘 해가 부쩍 짧아져, 회사를 나서면 벌써 하늘이 어둑하지요.\n어두운 길을 지나 무사히 돌아오신 것, 그것으로 오늘 몫은 다 하셨습니다.\n\n\"해가 짧아도 저녁은 길게 쓰십시오.\"\n\n오늘의 처방: 집에 오면 불 하나 더, 따뜻한 물 한 잔, 창가에서 숨 고르기.\n저장해 두고 퇴근길이 쓸쓸한 날 다시 보기.\n\n💬 어두운 퇴근길, 당신을 밝혀 주는 건 뭔가요?\n고생한 사람에게 세바스를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n다음: 모노의 한마디 — 괜히 서운한 하루를 보낸 당신에게\n\n#좋은글귀 #위로글귀 #퇴근길 #가을저녁 #감성글귀",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-20-char09-sebas-darkcommute-202610201415/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
