@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:30:03+09:00",
+  "updated": "2026-10-21T14:16:15+09:00",
   "accounts": {
     "IG_TOKEN_ROMANCE_KR": "romance_lifebutler",
     "IG_TOKEN_KCULTURE": "kculture_japan",
@@ -484,6 +484,17 @@
       "cover_ms": 1000
     },
     {
+      "id": "kr_reels-20261021-050",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-24T18:30:00+09:00",
+      "caption": "위로글귀 | 괜히 서운한 하루였던 당신에게 모노의 한마디 No.3 🐾\n\n낭만 저택의 막내 집사 모노가 현관에 앉아 기다렸어요.\n누가 뭘 크게 잘못한 것도 아닌데, 이상하게 마음이 서운한 날이 있지요.\n그 서운함을 꾹 참고 돌아온 것만으로도 오늘은 충분히 애쓰셨어요.\n\n\"서운한 건 마음이 컸다는 뜻.\"\n\n오늘의 한마디: 오늘은 그냥 자요. 내일 생각해요.\n저장해 두고 마음이 괜히 서운한 날 다시 보기.\n\n💬 오늘 당신을 서운하게 한 건 한 단어로 뭐였나요?\n고생한 사람에게 모노를 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n다음: 로만의 하루 끝 위로 — 시월을 다 보내는 당신에게\n\n#좋은글귀 #위로글귀 #서운한날 #마음위로 #감성글귀",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-21-char10-mono-sulky-202610211416/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "jp_cardnews-20261020-059",
       "channel": "jp_cardnews",
       "handle": "kculture_japan",
@@ -492,6 +503,17 @@
       "due": "2026-10-24T20:30:00+09:00",
       "caption": "ソウル観光速報！漢江ドローンショーが10/31に ハルのソウル日記\n\n夜のソウルを調べていたハル。「夜空にドローン！？」ミナが教えてくれたのは、漢江の無料ドローンショーでした。\n\nQ. 漢江のドローンショーはいつ、どこで見られる？\nA. ソウル市の案内では、10/31(土) 19:30〜21:25、トゥクソム漢江公園で開催。無料で現地観覧だよ。\n\n✔ 日時：10/31(土) 19:30〜21:25（下半期の最後の回）\n✔ 場所：トゥクソム漢江公園（地下鉄7号線 紫陽駅1番出口）\n✔ 料金：無料・現地で観覧\n\n※雨や強風など天気によって中止・遅れることがあります。当日はソウル市の公式案内を確認してね。\n\n保存して旅行前に見返してね📌\n\n💬 ソウルの夜、どこに行きたい？\n\n#韓国旅行 #ソウル旅行 #ソウル観光 #漢江 #ドローンショー\nフォローで次のソウル特集を見逃さない♡ 次回：ソウルの地下鉄、知らないと損（No.8）",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-10-20-sokuho-hangang-drone-202610201633/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_reels-20261021-051",
+      "channel": "kr_reels",
+      "handle": "romance_lifebutler",
+      "token_env": "IG_TOKEN_ROMANCE_KR",
+      "kind": "reel",
+      "due": "2026-10-25T18:30:00+09:00",
+      "caption": "감성글귀 | 시월을 다 보내는 당신에게 로만의 하루 끝 위로 No.4 🍂\n\n낭만 저택의 집사 로만이 현관에서 기다리고 있었어요.\n정신없이 지나간 한 달, 달력을 보니 벌써 시월이 끝나 가네요.\n해낸 일보다 못한 일이 먼저 떠올라도, 이 한 달을 버텨 온 건 분명 당신이에요.\n\n\"한 달을 버틴 당신이 제일 잘했어요.\"\n\n오늘 밤의 위로: 따뜻한 차 한 잔, 고마웠던 일 하나 떠올리기.\n저장해 두고 한 달이 허무하게 느껴질 때 다시 보기.\n\n💬 이번 달 가장 고마웠던 일은 한 단어로 뭐였나요?\n고생한 사람에게 로만을 보내 주세요.\n팔로우하고 내일 저녁에도 만나요.\n다음: 세바스의 오늘의 처방 — 아침마다 이불 밖이 힘든 당신에게\n\n#좋은글귀 #위로글귀 #시월 #월말 #감성글귀",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-GoodSpeaking/main/reels/2026-10-21-char11-roman-october-202610211416/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
