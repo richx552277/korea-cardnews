@@ -80,11 +80,23 @@ def already_posted(uid, token, caption, kind):
     return next((m for m in media if m.get("media_type") == want and (m.get("caption") or "").strip()[:80] == head), None)
 
 
+# ZF-OPS-ROMERA-CUTOVER-001: account ownership transferred to Windows GPT.
+def romera_cutover_blocked(entry):
+    return (str(entry.get("channel", "")).lower() == "jp_reels"
+            or str(entry.get("handle", "")).lstrip("@").lower() == "life_romera"
+            or entry.get("token_env") == "IG_TOKEN_ROMANCE_JP"
+            or str(entry.get("account_id", "")) == "17841449382124561")
+
+
 def post(e, token):
+    if romera_cutover_blocked(e):
+        raise PermissionError("Romera ownership transferred; legacy writer fenced")
     me = ig("GET", "me", token, fields="user_id,username")
     if me["username"].lower() != e["handle"].lower():
         raise IGError(f"@{e['handle']} 토큰이 아님(@{me['username']})")
     uid = me["user_id"]
+    if str(uid) == "17841449382124561" or me["username"].lower() == "life_romera":
+        raise PermissionError("Romera actual account is fenced")
     dup = already_posted(uid, token, e["caption"], e["kind"])
     if dup:
         return dup["id"], dup["permalink"], "이미 게시돼 있음(기록만)"
@@ -146,6 +158,8 @@ def main():
     stamp = now.astimezone(KST).isoformat(timespec="seconds")
     changed = False
     for e in sorted(items, key=lambda x: x["due"]):
+        if romera_cutover_blocked(e):
+            continue  # Preserve its historical queue and receipts without mutation.
         r = res.get(e["id"], {})
         if r.get("status") != "published" and r.get("due") != e["due"]:
             r = {}  # 다른 시각으로 다시 배정된 일정 — 예전 놓침·실패 결과는 무시 (게시됨은 중복 방지로 항상 확정)
