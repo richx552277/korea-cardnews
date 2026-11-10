@@ -1,5 +1,6 @@
 # 인스타그램 클라우드 예약 게시 (2026-10-08) — 원본: E:\claude\instagram-agency\common\cloud\ig-publish.yml
-# 15분마다 publisher/schedule.json을 보고 게시 시각이 지난 항목을 게시, 결과를 publisher/published.json에 커밋한다.
+# 2026-10-13~ cron-job.org가 매시 2·17·32·47분 workflow_dispatch(mode=publish)로 호출 — 아래 schedule은 안전망(실제로는 수 시간씩 밀림).
+# 실행마다 publisher/schedule.json을 보고 게시 시각이 지난 항목을 게시, 결과를 publisher/published.json에 커밋한다.
 # 토큰: 저장소 Settings > Secrets and variables > Actions 의 IG_TOKEN_* (대표가 직접 등록)
 name: ig-publish
 on:

@@ -80,23 +80,22 @@ def already_posted(uid, token, caption, kind):
     return next((m for m in media if m.get("media_type") == want and (m.get("caption") or "").strip()[:80] == head), None)
 
 
-# ZF-OPS-ROMERA-CUTOVER-001: account ownership transferred to Windows GPT.
+# ZF-OPS-ROMERA-CUTOVER-001: 옛 로메라 글귀 채널(jp_reels)·옛 이름(life_romera) 게시는 계속 막는다.
+# 2026-11-10 대표 결정: 같은 계정(17841449382124561, 토큰 IG_TOKEN_ROMANCE_JP)을 @moraeru.manga로 바꿔 jp_support가 사용 → 계정 ID·토큰 기준 차단은 해제
 def romera_cutover_blocked(entry):
     return (str(entry.get("channel", "")).lower() == "jp_reels"
-            or str(entry.get("handle", "")).lstrip("@").lower() == "life_romera"
-            or entry.get("token_env") == "IG_TOKEN_ROMANCE_JP"
-            or str(entry.get("account_id", "")) == "17841449382124561")
+            or str(entry.get("handle", "")).lstrip("@").lower() == "life_romera")
 
 
 def post(e, token):
     if romera_cutover_blocked(e):
-        raise PermissionError("Romera ownership transferred; legacy writer fenced")
+        raise PermissionError("ZF-OPS-ROMERA-CUTOVER-001: life_romera legacy writer fenced")
     me = ig("GET", "me", token, fields="user_id,username")
     if me["username"].lower() != e["handle"].lower():
         raise IGError(f"@{e['handle']} 토큰이 아님(@{me['username']})")
     uid = me["user_id"]
-    if str(uid) == "17841449382124561" or me["username"].lower() == "life_romera":
-        raise PermissionError("Romera actual account is fenced")
+    if me["username"].lower() == "life_romera":
+        raise PermissionError("ZF-OPS-ROMERA-CUTOVER-001: life_romera legacy writer fenced")
     dup = already_posted(uid, token, e["caption"], e["kind"])
     if dup:
         return dup["id"], dup["permalink"], "이미 게시돼 있음(기록만)"
@@ -159,7 +158,7 @@ def main():
     changed = False
     for e in sorted(items, key=lambda x: x["due"]):
         if romera_cutover_blocked(e):
-            continue  # Preserve its historical queue and receipts without mutation.
+            continue  # Account transferred; preserve queue and receipts.
         r = res.get(e["id"], {})
         if r.get("status") != "published" and r.get("due") != e["due"]:
             r = {}  # 다른 시각으로 다시 배정된 일정 — 예전 놓침·실패 결과는 무시 (게시됨은 중복 방지로 항상 확정)
