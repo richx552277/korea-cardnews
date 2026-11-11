@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:05:15+09:00",
+  "updated": "2026-11-11T12:30:14+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -888,6 +888,50 @@
       "due": "2026-11-12T20:00:00+09:00",
       "caption": "妊婦健診の受診券、里帰り出産でも使える？🤰 よくある質問\n→ 自治体によって違います。使えない場合でも、あとで払い戻しがある自治体もあります。\n\nよくある質問です。「実家の近くの病院で健診を受けたら、受診券は使えないの？」\nけんたも心配していましたが、まずは住んでいる市区町村に聞くのが近道でした。\n\n✅ 使えるかどうか：自治体によって違います\n✅ 使えない時：あとで払い戻しを受けられる自治体もあります\n✅ とっておく物：領収書と、使わなかった受診券\n📍 問い合わせ先：住んでいる市区町村の窓口\n\n※払い戻しの有無・金額・期限は自治体によって違います。里帰りの前に公式サイトか窓口で確認してください。\n※出典：こども家庭庁「妊婦健康診査の公費負担の状況に係る調査結果」・基準日 2026.11.10\n\n💬 里帰り出産する？ しない？\n📌 保存して、パートナーにも送ってね\n🔔 受診券のくわしい話は第2話「妊婦健診14回、タダになる？」で。フォローして続きを見てね\n\n#妊婦健診 #もらえるお金 #里帰り出産 #受診券 #子育て支援",
       "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-10-qa01-satogaeri-jushinken-202611101308/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261111-077",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-12T21:00:00+09:00",
+      "caption": "Korea K-ETA: skip it, save ₩10,000? | Korea Money Rules No.2\n\nZoe almost paid ₩10,000 for a K-ETA she may not need.\nHer friend Mina told her to check the official list first.\n\nQ. Do I need a K-ETA to visit Korea in 2026?\nA. Many countries can skip it until Dec 31, 2026 (Korea time). Check if your country is on the official exempt list.\n\n✔ K-ETA exemption: until Dec 31, 2026\n✔ Want to skip the arrival card? You can still apply. The fee is ₩10,000.\n✔ Apply only at k-eta.go.kr. Fake sites charge more.\n\nAlready have a K-ETA? It stays valid, but there is no refund. The exemption ends Dec 31 unless extended, and rules can change.\n(Source: K-ETA, Korea Ministry of Justice; Ministry of Foreign Affairs. As of Nov 11, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n\n💬 Is your country on the list?\n\nFollow for the next money rule. Next: Working in Korea? The 19% flat tax (No.3)\n\n#korea #koreatravel #keta #koreavisa #seoultravel",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-toon02-k-eta-en-202611111230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261111-034",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-13T20:00:00+09:00",
+      "caption": "첫만남이용권 200만원, 1년 지나면 사라질까? 🍼 | 시즌2 5화\n→ 2024년 이후 태어난 아이는 출생일부터 2년까지 쓸 수 있어요\n\n\"1년 지나면 사라진대!\" 옛 글을 본 금동이가 기저귀 1년치를 사려다가,\n지원이가 알려 준 진짜 기한에 한숨 돌렸어요.\n\n✅ 금액: 첫째 200만원 · 둘째부터 300만원 (국민행복카드 포인트)\n✅ 기간: 아이 출생일부터 2년 (2024년 이후 출생아)\n✅ 신청: 출생신고 때 원스톱, 또는 주민센터·복지로·정부24\n\nQ. 첫만남이용권 남은 포인트는 어떻게 돼요?\nA. 사용 기간이 지나면 남은 포인트는 자동으로 사라져요. 국민행복카드에서 사용 종료일을 꼭 확인하세요.\n\n⚠ 유흥·사행업종, 면세점, 상품권 등 일부 업종은 쓸 수 없어요. 지자체 안내마다 표기가 다를 수 있으니 주민센터에 확인하세요.\n\n📌 멈춰서 보려면 저장해 두세요. 출산 앞둔 친구에게 보내 주세요.\n👉 다음 화: 부모급여 0세 월 100만원, 돌 지나면? (6) — 팔로우하고 다음 화 받기\n💬 첫만남이용권, 다 썼어요? 아직 남았어요?\n\n출처: 보건복지부(2024.3.19 시행령 개정) · 정책브리핑 · 인천 연수구·서울 구로구 첫만남이용권 안내 · 기준일 2026.11.11\n\n#첫만남이용권 #출산지원금 #육아지원금 #받을건받자툰 #육아맘",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-11-ep05-first-meet-voucher-202611111230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261111-078",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-13T21:00:00+09:00",
+      "caption": "Korea K-ETA: skip it = arrival card? | Korea Money Rules Q&A\n\nZoe skipped K-ETA this year. On the plane, she got a form to fill out.\n\nQ. If I skip K-ETA, do I need an arrival card in Korea?\nA. Yes. With K-ETA approval you can skip the arrival card. Without it, you fill one out.\n\n✔ K-ETA exemption: until Dec 31, 2026\n✔ Apply anyway to skip the arrival card. The fee is ₩10,000.\n✔ Apply only at k-eta.go.kr. Review usually takes up to 72 hours.\n\nCheck if your country is on the exempt list, and rules can change.\n(Source: K-ETA, Korea Ministry of Justice; Ministry of Foreign Affairs. As of Nov 11, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n\nFollow for the next money rule. Who can skip K-ETA? See No.2.\n\n#korea #koreatravel #keta #koreavisa #seoultravel",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-qa02-arrival-card-en-202611111230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261111-035",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-14T20:00:00+09:00",
+      "caption": "첫만남이용권 200만원, 산후조리원에도 쓸 수 있을까? 🤔 | Q&A\n→ 네, 산후조리원에도 쓸 수 있어요\n\n조리원비 계산하던 금동이의 질문, 많이 묻는 질문이라 정리했어요.\n\n✅ 산후조리원: 사용 가능\n✅ 못 쓰는 곳: 유흥·사행 업종, 면세점, 상품권 등\n✅ 기간: 아이 출생일부터 2년 (2024년 이후 출생아)\n\nQ. 첫만남이용권은 어떻게 받아요?\nA. 국민행복카드 포인트로 받아요. 출생신고 때 원스톱으로, 또는 주민센터·복지로·정부24에서 신청해요.\n\n⚠ 업종 구분은 카드사·지자체 안내마다 다를 수 있어요. 결제 전에 확인하세요.\n\n📌 멈춰서 보려면 저장해 두세요.\n👉 진짜 사용 기한은 5화에서! 팔로우하고 다음 화 받기\n💬 조리원비에 썼어요? 다른 데 썼어요?\n\n출처: 보건복지부 · 서울시 · 인천 연수구 첫만남이용권 안내 · 기준일 2026.11.11\n\n#첫만남이용권 #산후조리원 #출산지원금 #받을건받자툰 #육아지원금",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-11-qa11-voucher-postpartum-202611111230/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
