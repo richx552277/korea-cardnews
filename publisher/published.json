@@ -703,5 +703,23 @@
     "permalink": "https://www.instagram.com/reel/Dfmb2bvDSeC/",
     "media_id": "17994301341052145",
     "note": ""
+  },
+  "kr_support-20261110-033": {
+    "status": "published",
+    "at": "2026-11-12T20:02:11+09:00",
+    "channel": "kr_support",
+    "due": "2026-11-12T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/Dfo5wrZDsq4/",
+    "media_id": "18118468364044459",
+    "note": ""
+  },
+  "jp_support-20261110-003": {
+    "status": "published",
+    "at": "2026-11-12T20:02:11+09:00",
+    "channel": "jp_support",
+    "due": "2026-11-12T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/Dfo51EyjY_O/",
+    "media_id": "18170535085470962",
+    "note": ""
   }
 }
