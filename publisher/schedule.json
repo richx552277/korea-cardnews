@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:32:40+09:00",
+  "updated": "2026-11-12T12:30:04+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -954,6 +954,17 @@
       "due": "2026-11-14T20:00:00+09:00",
       "caption": "出産育児一時金、50万円より安かったら差額はもらえる？👶 よくある質問\n→ はい。加入している健康保険に申請すると、差額がもらえます。\n\n「あまった分は病院のものになるの？」と心配するけんた。\n直接支払制度を使っても、差額は申請すれば受け取れます。\n\n✅ 金額：出産育児一時金は子ども1人につき50万円\n✅ 差額：出産費用が50万円より少なければ、その差額がもらえます\n✅ とっておく物：病院の明細書など（必要な書類は健康保険によって違います）\n📍 申請先：加入している健康保険（協会けんぽ・健康保険組合・国民健康保険など）\n\n※くわしい手続きは、加入している健康保険の公式サイトで確認してください。\n※出典：協会けんぽ「出産育児一時金」・基準日 2026.11.11\n\n💬 出産する病院、もう決めた？ まだ？\n📌 保存して、パートナーにも送ってね\n🔔 くわしくは第3話「出産育児一時金50万円で足りる？」で。フォローして続きを見てね\n\n#出産育児一時金 #もらえるお金 #子育て支援 #出産費用 #妊娠中",
       "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-11-qa02-sagaku-shinsei-202611111232/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261111-079",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-14T21:00:00+09:00",
+      "caption": "Korea K-ETA: paid already, refund? | Korea Money Rules Q&A\n\nZoe paid ₩10,000 for K-ETA last month. Then she learned she could skip it this year.\n\nQ. I already paid for K-ETA. Can I get a refund?\nA. No. But your K-ETA stays valid until it expires, and you can skip the arrival card.\n\n✔ Already-issued K-ETA: valid until it expires\n✔ Fee paid: no refund\n✔ K-ETA exemption for listed countries: until Dec 31, 2026\n\nCheck the official site before your next trip, and rules can change.\n(Source: K-ETA, Korea Ministry of Justice; Ministry of Foreign Affairs. As of Nov 11, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n\nFollow for the next money rule. Who can skip K-ETA? See No.2.\n\n#korea #koreatravel #keta #koreavisa #seoultravel",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-qa03-keta-refund-en-202611121230/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
