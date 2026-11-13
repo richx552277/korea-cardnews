@@ -732,12 +732,13 @@
     "note": ""
   },
   "kr_support-20261111-034": {
-    "status": "failed",
-    "at": "2026-11-13T20:02:11+09:00",
+    "status": "published",
+    "at": "2026-11-13T20:17:09+09:00",
     "channel": "kr_support",
     "due": "2026-11-13T20:00:00+09:00",
-    "attempts": 1,
-    "error": "처리 실패: {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18112974200133929'}"
+    "permalink": "https://www.instagram.com/reel/DfrgRE0FOv0/",
+    "media_id": "17910890454665225",
+    "note": ""
   },
   "jp_support-20261111-004": {
     "status": "published",
