@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:29:30+09:00",
+  "updated": "2026-11-16T14:53:10+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -1031,6 +1031,72 @@
       "due": "2026-11-17T21:00:00+09:00",
       "caption": "Korea flat tax: how do you choose 19%? | Korea Money Rules Q&A\n\nZoe compared both ways and found the 19% flat tax is better for her. Now what?\n\nQ. How do foreign workers in Korea choose the 19% flat tax?\nA. Give the flat tax form to your company at year-end tax settlement (around Jan–Feb).\n\n✔ Form: flat tax application form for foreign workers\n✔ Give it to: your company (HR or payroll)\n✔ Remember: flat tax means no deductions\n\nNot every worker can use it, and rules can change. Ask your company or NTS first.\n(Source: National Tax Service Korea. As of Nov 11, 2026)\n\nSave this for tax time 📌 Send it to a friend in Korea.\n\n💬 Does your company do year-end settlement?\n\nFollow for the next money rule. See No.3 for flat vs regular.\n\n#korea #lifeinkorea #koreatax #workinkorea #expatkorea",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-qa04-flat-tax-apply-en-202611161230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261116-038",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-18T20:00:00+09:00",
+      "caption": "부모급여 100만원, 어린이집 가도 현금 전부일까? 🧾\n→ 0세·0세반 한 달 이용 기준 현금 차액은 월 41만 6천원이에요.\n시즌2 7화 | 복이가 태어났다\n금동은 100만원 전부를 생활비로 잡았어요.\n지원과 보육료·현금 차액을 나눠 다시 계산해요.\n\n✅ 부모급여 월 100만원 중 기본보육료 월 58만 4천원\n✅ 0세·0세반 기준 현금 차액 월 41만 6천원\n✅ 차액 지급은 익월 20일, 입소 전 보육료 신청 확인\n\nQ. 입소 등록만 하면 되나요?\nA. 영유아보육료를 따로 신청해야 해요. 복지로·주민센터에서 확인하세요.\n⚠ 입·퇴소 월·상위반 편성은 정산이 달라질 수 있어요. 2026년 현행 안내이며 제도는 변경될 수 있어요.\n📌 멈춰서 보려면 저장해 두세요. 저장해 두고 신청 기간에 다시 보기!\n입소 앞둔 배우자에게도 보내 두세요.\n💬 어린이집 준비 중이에요? 이미 다녀요?\n출처: 보건복지부(2026.1.14)·보건복지상담센터 FAQ(2026.3.18) | 기준일 2026.11.16\n#육아지원금 #부모급여 #어린이집 #보육료\n👉 팔로우하고 다음 화 받기: 시간제보육 시간당 2천원? (8)",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-16-ep07-daycare-parent-pay-202611161453/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261116-008",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-18T20:00:00+09:00",
+      "caption": "産前産後の保険料免除、自営業でも4か月ゼロ？届け出が必要です👶 シーズン1 第5話\n→ 自営業などで出産する本人は、国民年金と国保の保険料が4か月免除です。\n\nカフェの常連・さきさんは自営業の妊婦さん。「出産で保険料が大変」と聞いたけんたは「ぼくも免除？」\nゆいが調べると、対象は出産する本人だけ。さきさんに教えなきゃ！\n\n✅ 期間：出産予定月の前月から4か月（多胎は6か月）\n✅ 対象：国民年金の第1号被保険者・国保に入っていて出産する本人\n✅ 年金額：免除の期間も「払ったもの」として計算\n\n📍 申請先：お住まいの市区町村の窓口（国民年金はマイナポータルでも）。出産予定日の6か月前から、出産後でも届け出できます\n※会社員の方は、産休中の保険料免除が別にあります\n※国保の手続きは自治体によって違います。公式サイトで確認してください\n※出典：日本年金機構・厚生労働省／基準日 2026.11.16\n\n💬 出産する本人、会社員？ 自営業？\n📌 保存して、パートナーにも送ってね\n🔔 次回予告：育休でも手取り10割？（第6話）\n\n#もらえるお金 #子育て支援 #妊娠 #出産準備 #自営業",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-16-ep05-sanzensango-menjo-202611161453/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261116-082",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-18T21:00:00+09:00",
+      "caption": "Korea minimum wage 2027: ₩10,700? | Korea Money Rules No.4\n\nZoe was happy with ₩10,000 an hour at her café job. Then Mina showed her the real minimum.\n\nQ. What is the minimum wage in Korea in 2027?\nA. ₩10,700 an hour, starting Jan 1, 2027.\n\n✔ 2026: ₩10,320 an hour → 2027: ₩10,700 an hour\n✔ Monthly: ₩2,236,300 (40 hours a week)\n✔ Foreigners and part-timers get the same minimum\n\nSome home and family jobs are not covered, and rules can change. Paid less? Call 1350 (MOEL). (Source: Ministry of Employment and Labor. As of Nov 16, 2026)\n\nSave this for payday 📌 Send it to a friend in Korea.\n💬 Is your hourly pay above ₩10,320? Yes or no?\nFollow for the next money rule. Next: Why did the taxi cost more at night? (No.5)\n\n#korea #lifeinkorea #minimumwage #parttimejob #workinkorea",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-16-toon04-minimum-wage-en-202611161453/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261116-039",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-19T20:00:00+09:00",
+      "caption": "육아지원금 부모급여 차액, 매달 25일에 들어올까? Q&A No.13\n→ 어린이집 이용아동의 부모급여 차액은 익월 20일로 안내돼요.\n생활비 입금일을 맞춰 둔 금동의 질문!\n많이 묻는 질문, 가정양육 현금과 어린이집 차액의 날짜를 나눠 봐요.\n\n✅ 금액: 0세·0세반 한 달 이용 시 현금 차액 월 41만 6천원\n✅ 대상: 어린이집 이용아동의 부모급여 차액\n✅ 지급일: 익월 20일 / 가정양육 현금은 매월 25일\n\nQ. 익월이 언제예요?\nA. 어린이집을 이용한 달의 다음 달이에요.\n⚠ 2026년 현행 기준. 입·퇴소 월·반 편성에 따라 금액과 정산 일정이 달라질 수 있어요. 주민센터·129에서 확인하세요.\n📌 멈춰서 보려면 저장해 두세요. 입소 앞둔 배우자에게 보내 두세요.\n👉 관련 본편: 시즌2 7화 「부모급여 100만원, 어린이집 가도 현금 전부?」\n💬 지급일 알고 있었어요? 처음 알았어요?\n출처: 보건복지부 2026.1.14 안내·129 FAQ / 기준일 2026.11.16\n#육아지원금 #부모급여 #부모급여어린이집 #정부지원금\n팔로우하고 다음 화 받기 · 부모급여 100만원의 보육료·현금 구분은 시즌2 7화에!",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-16-qa13-daycare-payday-202611161453/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261116-009",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-19T20:00:00+09:00",
+      "caption": "産前産後の保険料免除、出産後に届け出ても間に合う？👶 よくある質問\n→ 国民年金は、出産後でも届け出できます。\n\n「さきさん、まだ届け出してないって…」とけんた。\nゆいの答えは「出産後でも届け出できるよ」。\n\n✅ 国民年金：出産後も届け出OK（出産予定日の6か月前からも可）\n✅ 書類：出産後は、原則として添付書類なし（マイナンバーで確認）\n✅ 国保：手続きの時期・書類は自治体に確認\n\n📍 申請先：お住まいの市区町村の窓口（国民年金はマイナポータルでも）\n※国保の手続きは自治体によって違います。公式サイトで確認してください\n※出典：日本年金機構／基準日 2026.11.16\n\n💬 届け出、出産前にする？ 出産後？\n📌 保存して、パートナーにも送ってね\n🔔 くわしくは第5話「自営業の出産、保険料4か月ゼロ？」\n\n#もらえるお金 #子育て支援 #妊娠 #出産準備 #自営業",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-16-qa04-shussango-todokede-202611161454/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261116-083",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-19T21:00:00+09:00",
+      "caption": "Korea minimum wage: foreigners too? | Korea Money Rules Q&A\n\nZoe works part-time at a café and is on a trial period. Does the minimum wage count for her?\n\nQ. Do foreign part-time workers in Korea get the minimum wage?\nA. Yes. Foreigners and part-timers get the same minimum rate.\n\n✔ Same rate for foreigners and part-timers\n✔ Trial period: up to 10% less, only for the first 3 months\n✔ No cut if your contract is under 1 year\n\nSome simple jobs can't be cut at all, and rules can change. (Source: Minimum Wage Act, Ministry of Employment and Labor. As of Nov 16, 2026)\n\nSave this for payday 📌 Send it to a friend in Korea.\nFollow for the next money rule. Next: Why did the taxi cost more at night? (No.5)\n\n#korea #lifeinkorea #minimumwage #parttimejob #workinkorea",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-16-qa05-foreigner-minimum-en-202611161453/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
