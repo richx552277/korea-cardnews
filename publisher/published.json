@@ -784,5 +784,23 @@
     "permalink": "https://www.instagram.com/reel/DfuKNy9jGJ1/",
     "media_id": "18121132099992050",
     "note": ""
+  },
+  "kr_support-20261111-036": {
+    "status": "published",
+    "at": "2026-11-16T20:17:12+09:00",
+    "channel": "kr_support",
+    "due": "2026-11-16T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DfzOqUYiGq7/",
+    "media_id": "18081132398413554",
+    "note": ""
+  },
+  "jp_support-20261111-006": {
+    "status": "published",
+    "at": "2026-11-16T20:17:12+09:00",
+    "channel": "jp_support",
+    "due": "2026-11-16T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DfzOxJAjbyF/",
+    "media_id": "18134459413841148",
+    "note": ""
   }
 }
