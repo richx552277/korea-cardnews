@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:30:04+09:00",
+  "updated": "2026-11-16T12:30:03+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -965,6 +965,50 @@
       "due": "2026-11-14T21:00:00+09:00",
       "caption": "Korea K-ETA: paid already, refund? | Korea Money Rules Q&A\n\nZoe paid ₩10,000 for K-ETA last month. Then she learned she could skip it this year.\n\nQ. I already paid for K-ETA. Can I get a refund?\nA. No. But your K-ETA stays valid until it expires, and you can skip the arrival card.\n\n✔ Already-issued K-ETA: valid until it expires\n✔ Fee paid: no refund\n✔ K-ETA exemption for listed countries: until Dec 31, 2026\n\nCheck the official site before your next trip, and rules can change.\n(Source: K-ETA, Korea Ministry of Justice; Ministry of Foreign Affairs. As of Nov 11, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n\nFollow for the next money rule. Who can skip K-ETA? See No.2.\n\n#korea #koreatravel #keta #koreavisa #seoultravel",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-qa03-keta-refund-en-202611121230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261111-036",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-16T20:00:00+09:00",
+      "caption": "부모급여 0세 월 100만원, 돌 지나면 얼마로 줄까? 👶\n→ 돌(12개월)부터는 월 50만원, 24개월이 되면 끝나요\n\n시어머니가 \"부모급여는 두 살까지 100만원씩\"이라고 하셔서 금동이는 적금부터 들 뻔했어요.\n지원이가 확인해 보니 돌이 지나면 절반으로 줄어요.\n\n✅ 0세(0~11개월): 월 100만원\n✅ 1세(12~23개월): 월 50만원\n✅ 소득과 상관없이 모든 아이, 아동수당과 함께 받아요\n\nQ. 어린이집에 보내도 100만원을 다 받나요?\nA. 아니요, 보육료를 뺀 차액만 현금으로 받아요. 자세한 건 다음 화에서!\n\n⚠ 2027년 개편안은 국회 심사 중이라 바뀔 수 있어요. 정확한 내용은 복지로·주민센터에서 확인하세요.\n\n📌 멈춰서 보려면 저장해 두세요\n👉 다음 화: 어린이집 가면 41만원만? (7) — 팔로우하고 다음 화 받기\n💬 아이가 0세예요? 돌 지났어요?\n\n출처: 보건복지부(정책브리핑 2026.01.14) · 기준일 2026.11.11\n\n#부모급여 #받을건받자툰 #육아지원금 #출산지원금 #육아정보",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-11-ep06-parent-pay-age1-202611161230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261111-080",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-16T21:00:00+09:00",
+      "caption": "Korea flat tax 19%: cheaper or not? | Korea Money Rules No.3\n\nZoe saw \"19% flat tax\" on her new job's form and almost picked it right away.\nHer friend Mina stopped her: flat tax means no deductions.\n\nQ. Can foreign workers in Korea pay a 19% flat income tax?\nA. Yes. Foreign workers can choose 19% flat or the regular rates (6–45%). You tell your company at year-end tax settlement.\n\n✔ Flat rate: 19% of your pay, for up to 20 years\n✔ Flat = no deductions and no tax credits\n✔ Regular: 6–45%, with deductions. Compare both first.\n\nNot every worker can use it, and a change for 2027 is proposed. Rules can change, so check with your company or NTS.\n(Source: National Tax Service Korea. As of Nov 11, 2026)\n\nSave this for tax time 📌 Send it to a friend in Korea.\n\n💬 Flat or regular? Which did you pick?\n\nFollow for the next money rule. Next: Is your pay above the minimum wage? (No.4)\n\n#korea #lifeinkorea #koreatax #workinkorea #expatkorea",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-toon03-flat-tax-en-202611161230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261111-037",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-17T20:00:00+09:00",
+      "caption": "부모급여 100만원 받으면 아동수당은 못 받을까? 🤔\n→ 아니요, 부모급여와 아동수당은 함께 받아요\n\n금동이는 부모급여를 받으면 아동수당은 포기해야 하는 줄 알았어요.\n지원이가 확인해 보니 둘 다 받을 수 있어요.\n\n✅ 부모급여: 0세 월 100만원 · 1세 월 50만원\n✅ 아동수당: 월 10만원, 부모급여와 함께\n✅ 출생신고 때 행복출산 원스톱으로 한 번에 신청\n\nQ. 따로따로 신청해야 하나요?\nA. 출생신고 때 행복출산으로 같이 신청하면 한 번에 끝나요. 복지로·정부24로도 할 수 있어요.\n\n⚠ 2027년 개편안은 국회 심사 중이라 바뀔 수 있어요. 정확한 내용은 복지로·주민센터에서 확인하세요.\n\n📌 멈춰서 보려면 저장해 두세요\n👉 돌 이후 금액은 6화에서 — 팔로우하고 다음 화 받기\n💬 아동수당도 신청했어요? 아직이에요?\n\n출처: 보건복지부(정책브리핑 2026.01.14) · 정부24 · 기준일 2026.11.11\n\n#부모급여 #아동수당 #받을건받자툰 #육아지원금 #출산지원금",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-11-qa12-parent-pay-child-allowance-202611161231/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261111-081",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-17T21:00:00+09:00",
+      "caption": "Korea flat tax: how do you choose 19%? | Korea Money Rules Q&A\n\nZoe compared both ways and found the 19% flat tax is better for her. Now what?\n\nQ. How do foreign workers in Korea choose the 19% flat tax?\nA. Give the flat tax form to your company at year-end tax settlement (around Jan–Feb).\n\n✔ Form: flat tax application form for foreign workers\n✔ Give it to: your company (HR or payroll)\n✔ Remember: flat tax means no deductions\n\nNot every worker can use it, and rules can change. Ask your company or NTS first.\n(Source: National Tax Service Korea. As of Nov 11, 2026)\n\nSave this for tax time 📌 Send it to a friend in Korea.\n\n💬 Does your company do year-end settlement?\n\nFollow for the next money rule. See No.3 for flat vs regular.\n\n#korea #lifeinkorea #koreatax #workinkorea #expatkorea",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-11-qa04-flat-tax-apply-en-202611161230/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
