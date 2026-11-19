@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:30:08+09:00",
+  "updated": "2026-11-19T15:05:12+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -1174,6 +1174,61 @@
       "due": "2026-11-23T20:00:00+09:00",
       "caption": "아동수당, 우리 동네도 월 13만원이 나오나요? Q&A No.15\n→ 인구감소 특별지역에서 지역사랑상품권으로 지급할 때 월 13만원이에요.\n금동은 누나네 아동수당이 얼마인지 궁금해졌어요.\n지원과 함께 거주 지역과 지급 방식을 알아봐요.\n\n✅ 금액 · 기본 월 10만원\n✅ 대상 · 인구감소 특별지역에 거주하는 아동수당 수급 아동\n✅ 기간 · 2026년 기준 매월 지급. 지역사랑상품권으로 받는 경우 월 13만원\n\nQ. 인구감소 특별지역에서 현금으로 받으면요?\nA. 월 12만원이에요.\n⚠ 지급 방식은 지자체별 조례에 따라 달라요. 거주지 행정복지센터에서 확인하세요.\n📌 멈춰서 보려면 저장해 두세요. 우리 동네 지급 방식을 확인할 때 다시 보기!\n👉 관련 본편 시즌2 9화 「아동수당, 만 9세 생일 지나도 받을까?」\n💬 지급 방식 알아봤어요? 아직이에요?\n보건복지부 2026.4.23 보도자료 · 기준일 2026.11.18\n#아동수당 #육아지원금 #정부지원금\n팔로우하고 다음 화 받기 · 아동수당 만 9세 특례는 시즌2 9화에서!",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-18-qa15-child-allowance-13-202611191230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261119-012",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-23T20:00:00+09:00",
+      "caption": "児童手当、高校生ももらえる？👶 シーズン1 第7話\n→ 高校生年代まで月1万円、第3子以降は月3万円です。\n\nお義母さんは「児童手当は中学生までよ」。\n調べてみたら、2024年10月分から高校生年代までに広がっていました。\n\n✅ 3歳未満は月1.5万円、3歳〜高校生年代は月1万円\n✅ 第3子以降は月3万円・所得制限なし\n✅ 支給は偶数月の年6回(前月までの2か月分)\n\n📍 申請先：住んでいる市区町村(公務員は勤務先)。出生の翌日から15日以内に申請を。出生届とは別の手続きです\n※遅れた月の分は原則もらえません。必要書類は自治体によって違います。公式サイトで確認してください\n※出典：こども家庭庁「児童手当制度のご案内」 基準日 2026.11.19\n\n💬 児童手当、もう申請した？ まだ？\n📌 保存して、パートナーにも送ってね\n🔔 次回：時短勤務でも10%上乗せ？ 育児時短就業給付金の話 (8)\n\n#もらえるお金 #子育て支援 #児童手当 #出産準備 #プレママ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-19-ep07-jido-teate-202611191505/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261119-086",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-23T21:00:00+09:00",
+      "caption": "Korea airport: ₩4,750 or ₩18,000? | Korea Money Rules No.6\n\nZoe landed at Incheon tired and almost grabbed a taxi. Then she saw the prices.\n\nQ. What is the cheapest way from Incheon Airport to Seoul?\nA. The all-stop airport train: ₩4,750 from T1 to Seoul Station with a transit card.\n\n✔ All-stop train: ₩4,750 (T1), ₩5,350 (T2)\n✔ Express train: ₩13,000, about 43 min from T1, no stops\n✔ Airport bus: about ₩18,000, can stop near your hotel. Taxi: meter + toll\n\nBus fares vary by route, and rules can change. (Source: AREX, Incheon Airport, K Limousine. As of Nov 19, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n💬 From the airport: train or bus?\nFollow for the next money rule. Next: 6 months in Korea = a bill (No.7)\n\n#korea #koreatravel #incheonairport #seoultravel #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-19-toon06-airport-seoul-en-202611191505/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "kr_support-20261119-044",
+      "channel": "kr_support",
+      "handle": "batja.toon",
+      "token_env": "IG_TOKEN_SUPPORT",
+      "kind": "reel",
+      "due": "2026-11-24T20:00:00+09:00",
+      "caption": "육아지원금 아이돌봄 시간제, 생후 3개월부터 집에 와 줄까?\n→ 생후 3개월부터 방문 돌봄을 신청할 수 있어요.\n\n금동의 카페 납품과 지원의 회의가 겹쳤어요.\n복이를 데리고 나갈까 고민하다 집으로 오는 돌봄을 찾았어요.\n\n✅ 요금｜시간제 기본형은 평일 주간 시간당 12,790원. 정부지원 유형에 따라 본인부담금이 달라요.\n✅ 대상｜생후 3개월 이상~만 12세 이하. 정부지원은 양육공백 등 요건과 기준 중위소득 250% 이하를 확인해요.\n✅ 이용 시간｜한 번에 2시간부터 신청할 수 있어요.\n\nQ. 정부지원만 신청하면 돌봄도 예약되나요?\nA. 주민센터에서 지원 판정을 신청하고 아이돌봄 홈페이지에서 원하는 일정을 따로 신청해요.\n\n⚠ 이용 가능 일정과 실제 요금은 신청 전에 확인하세요.\n📌 멈춰서 보려면 저장해 두세요. 신청할 때 다시 봐요.\n👉 팔로우하고 다음 화 받기. 산모·신생아 건강관리, 출산 후 60일까지 신청할 수 있을까요?\n💬 방문 돌봄 써봤어요? 알아보는 중이에요?\n\n출처｜아이돌봄서비스·성평등가족부·보건복지부. 2026.11.19 기준. 시즌2 10화.\n#육아지원금 #아이돌봄서비스 #육아정보",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-19-ep10-in-home-childcare-202611191505/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261119-013",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-24T20:00:00+09:00",
+      "caption": "児童手当、出生届を出せば自動でもらえる？👶 よくある質問\n→ いいえ。出生届とは別に「認定請求」が必要です。\n\nけんたは「出生届を出したら終わり」だと思っていました。\n窓口で聞いてみると、児童手当の申請は別の手続きでした。\n\n✅ 出生の翌日から15日以内に申請\n✅ 原則、申請した月の翌月分から支給\n✅ 遅れた月の分は原則もらえません\n\n📍 申請先：住んでいる市区町村(公務員は勤務先)。里帰り出産でも住所地で申請\n※必要書類は自治体によって違います。公式サイトで確認してください\n※出典：こども家庭庁「児童手当Q&A」 基準日 2026.11.19\n\n💬 出生届と別だって知ってた？ 知らなかった？\n📌 保存して、パートナーにも送ってね\n🔔 くわしくは第7話「児童手当、高校生ももらえる？」へ\n\n#もらえるお金 #子育て支援 #児童手当 #出産準備 #プレママ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-19-qa06-shusseitodoke-jido-202611191506/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261119-087",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-24T21:00:00+09:00",
+      "caption": "Korea airport bus: where to buy the ticket? | Quick Q&A\n\nZoe walked out of arrivals and looked for the bus. But where is the ticket?\n\nQ. Where do I buy an airport bus ticket at Incheon Airport?\nA. At the ticket booths on 1F (T1), before you get on the bus.\n\n✔ Ticket: 1F bus ticket booths (T1)\n✔ Seoul buses stop outside 1F, exits 3–7\n✔ Fare: about ₩18,000. Allow 1–2 hours after landing when you book\n\nFares vary by route, and rules can change. (Source: Incheon Airport, K Limousine. As of Nov 19, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n💬 Bus or train to your hotel?\nFollow for the next money rule. Full price list: No.6\n\n#korea #koreatravel #incheonairport #seoultravel #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-19-qa07-airport-bus-ticket-en-202611191505/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
