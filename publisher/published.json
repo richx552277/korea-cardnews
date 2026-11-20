@@ -911,10 +911,10 @@
   },
   "jp_cardnews-20261118-084": {
     "status": "failed",
-    "at": "2026-11-20T21:02:14+09:00",
+    "at": "2026-11-20T21:17:11+09:00",
     "channel": "jp_cardnews",
     "due": "2026-11-20T21:00:00+09:00",
-    "attempts": 1,
-    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A5rBLilY93uYsmUeenyLDar\"}}"
+    "attempts": 2,
+    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AwaUFeW9IV7Fj7wHnMrKUCG\"}}"
   }
 }
