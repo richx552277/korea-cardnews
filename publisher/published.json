@@ -892,5 +892,21 @@
     "permalink": "https://www.instagram.com/reel/Df7CMI1jB5p/",
     "media_id": "17912878161591266",
     "note": ""
+  },
+  "kr_support-20261117-040": {
+    "status": "failed",
+    "at": "2026-11-20T20:02:13+09:00",
+    "channel": "kr_support",
+    "due": "2026-11-20T20:00:00+09:00",
+    "attempts": 1,
+    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ADjDwltGxeB5hV8qHZDeqTr\"}}"
+  },
+  "jp_support-20261118-010": {
+    "status": "failed",
+    "at": "2026-11-20T20:02:13+09:00",
+    "channel": "jp_support",
+    "due": "2026-11-20T20:00:00+09:00",
+    "attempts": 1,
+    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7lVqwT6VgO444aM74blfV1\"}}"
   }
 }
