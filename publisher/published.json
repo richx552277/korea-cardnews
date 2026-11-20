@@ -895,18 +895,18 @@
   },
   "kr_support-20261117-040": {
     "status": "failed",
-    "at": "2026-11-20T20:02:13+09:00",
+    "at": "2026-11-20T20:17:18+09:00",
     "channel": "kr_support",
     "due": "2026-11-20T20:00:00+09:00",
-    "attempts": 1,
-    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ADjDwltGxeB5hV8qHZDeqTr\"}}"
+    "attempts": 2,
+    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ASJVTBrTZZmapGENu8_X0eD\"}}"
   },
   "jp_support-20261118-010": {
     "status": "failed",
-    "at": "2026-11-20T20:02:13+09:00",
+    "at": "2026-11-20T20:17:18+09:00",
     "channel": "jp_support",
     "due": "2026-11-20T20:00:00+09:00",
-    "attempts": 1,
-    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7lVqwT6VgO444aM74blfV1\"}}"
+    "attempts": 2,
+    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AIV0NztvAo03DxV5F6Hah0s\"}}"
   }
 }
