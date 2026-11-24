@@ -928,12 +928,13 @@
     "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A6RIYkj0HdDErRum0tNMlEF\"}}"
   },
   "jp_support-20261118-011": {
-    "status": "failed",
-    "at": "2026-11-21T20:32:15+09:00",
+    "status": "published",
+    "at": "2026-11-24T20:02:15+09:00",
     "channel": "jp_support",
-    "due": "2026-11-21T20:00:00+09:00",
-    "attempts": 3,
-    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AYzWEnA3CdMlBK8peBP2qc5\"}}"
+    "due": "2026-11-24T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgHzYl8gJh1/",
+    "media_id": "18459034879127107",
+    "note": ""
   },
   "jp_cardnews-20261118-085": {
     "status": "failed",
@@ -950,6 +951,15 @@
     "due": "2026-11-23T20:00:00+09:00",
     "permalink": "https://www.instagram.com/reel/DgFOq0CjMOO/",
     "media_id": "18038834528896767",
+    "note": ""
+  },
+  "kr_support-20261123-046": {
+    "status": "published",
+    "at": "2026-11-24T20:02:15+09:00",
+    "channel": "kr_support",
+    "due": "2026-11-24T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgHzdnoAC9s/",
+    "media_id": "18042763364845786",
     "note": ""
   }
 }
