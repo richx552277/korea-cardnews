@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:30:05+09:00",
+  "updated": "2026-11-25T14:50:56+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -1243,6 +1243,28 @@
       "cover_ms": 1000
     },
     {
+      "id": "jp_support-20261125-014",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-27T20:00:00+09:00",
+      "caption": "育児時短就業給付金、時短でも10%もらえる？👶 シーズン1 第8話\n→ 2歳未満の子のための時短勤務なら、時短中の賃金の10%が上乗せされます。\n\n育休明けが近づいて「時短だと給料が減るよね」と悩むけんたとゆい。\n会社の先輩が教えてくれたのは、2025年4月からの新しい給付金でした。\n\n✅ 金額：時短勤務中の各月の賃金の10%(原則)\n✅ 対象：2歳未満の子を育てるため時短で働く、雇用保険に入っている人\n✅ 期間：子が2歳になるまで(自営業は対象外)\n\n📍 申請先：原則、会社が事業所を管轄するハローワークへ(本人提出・電子申請も可)\n※時短前と同じ以上の給料なら支給されません。上限・下限額もあります。公式サイトで確認してください\n※出典：厚生労働省「育児時短就業給付」パンフレット 基準日 2026.11.25\n\n💬 復帰後、時短にする？ フルタイム？\n📌 保存して、パートナーにも送ってね\n🔔 次回：子どもの医療費、0円の町もある？ こども医療費助成の話 (9)\n\n#もらえるお金 #子育て支援 #育児時短就業給付金 #育休明け #ワーママ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-25-ep08-jitan-kyufu-202611251451/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261125-089",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-27T21:00:00+09:00",
+      "caption": "Korea health bill after 6 months? | Korea Money Rules No.7\n\nZoe is a student in Seoul. In month 6, a bill came. She never signed up!\n\nQ. Do foreigners in Korea have to join national health insurance?\nA. Yes. Most visas join automatically after 6 months in Korea, with no sign-up.\n\n✔ Most visas: you join after 6 months, then a bill comes every month\n✔ D-2 students: you join from arrival\n✔ Students (D-2, D-4) can get 50% off if income and assets are low\n\nIf your job covers you, this works differently. Away 30+ days? The count can restart. Unpaid bills can affect your visa extension. It depends on your visa, and rules can change. (Source: NHIS, National Health Insurance Service. As of Nov 25, 2026)\n\nSave this 📌 Send it to a friend in Korea.\n💬 Got this bill yet? Yes or no?\nFollow for the next money rule. Next: Quit after 1 year? Severance (No.8)\n\n#korea #lifeinkorea #koreahealthinsurance #studyinkorea #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-25-toon07-health-insurance-en-202611251450/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "kr_support-20261118-042",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -1251,6 +1273,28 @@
       "due": "2026-11-28T20:00:00+09:00",
       "caption": "아동수당, 만 9세 생일 지나도 받을까?\n→ 2017년생은 만 9세가 됐어도 특례로 받을 수 있어요.\n\n누나네 아동수당이 끊겼다는 금동.\n지원이 조카의 출생연도를 확인하다가 특례를 찾았어요.\n\n✅ 아동 1명당 기본 월 10만원\n✅ 2026년 일반 기준은 만 9세 미만\n✅ 2017년생은 수급 요건을 충족하면 만 13세 생일 전 달까지 받을 수 있어요.\n\nQ. 예전에 받다 끊겼다면 다시 신청해야 하나요?\nA. 확대 대상은 지급정보가 확인되면 별도 신청 없이 지급돼요. 입금이 안 됐다면 주민센터에서 지급 내역을 확인하세요. 처음 받는 가정은 복지로 또는 주민센터에서 신청해요.\n\n⚠️ 거주 지역과 지급 방식에 따라 금액이 달라요.\n📌 멈춰서 보려면 저장해 두세요.\n👉 시즌2 10화는 아이돌봄 시간제, 생후 3개월부터 이용할 수 있을까요? 팔로우하고 다음 화 받기\n💬 아동수당 입금 확인했어요? 아직이에요?\n\n출처 보건복지부·아동수당법·보건복지상담센터·아이돌봄서비스 / 기준일 2026.11.18\n#아동수당 #육아지원금 #육아정보",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-18-ep09-child-allowance-202611231654/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261125-015",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-28T20:00:00+09:00",
+      "caption": "育児時短就業給付金、育休なしでももらえる？👶 よくある質問\n→ はい。時短前の2年間に雇用保険の加入が12か月あれば対象になります。\n\nけんたの同僚は「育休を取っていないから無理」と思っていました。\n調べてみると、条件はどちらか一つを満たせばOKでした。\n\n✅ 条件その1：育休から続けて時短勤務を始めた\n✅ 条件その2：時短前の2年間に雇用保険の加入が12か月\n✅ 子どもが2歳未満で、時短前より給料が下がっていること\n\n📍 申請先：原則、会社が事業所を管轄するハローワークへ\n※くわしい要件は公式サイトで確認してください\n※出典：厚生労働省「育児時短就業給付」パンフレット 基準日 2026.11.25\n\n💬 育休、取った？ 取らなかった？\n📌 保存して、パートナーにも送ってね\n🔔 くわしくは第8話「時短勤務でも10%上乗せ？」へ\n\n#もらえるお金 #子育て支援 #育児時短就業給付金 #育休明け #ワーママ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-25-qa07-ikukyu-nashi-jitan-202611251451/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261125-090",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-28T21:00:00+09:00",
+      "caption": "Korea health insurance: students pay half? | Quick Q&A\n\nZoe got her health insurance bill. Then she asked: do students get a deal?\n\nQ. Do international students in Korea get a health insurance discount?\nA. D-2 and D-4 visa holders can get 50% off, if their income and assets are low.\n\n✔ Who: D-2 (study) and D-4 (training) visas\n✔ Discount: 50% off the monthly bill\n✔ Condition: low income and low assets — check your bill with NHIS\n\nIt depends on your visa, and rules can change. (Source: NHIS, National Health Insurance Service. As of Nov 25, 2026)\n\nSave this 📌 Send it to a friend in Korea.\n💬 Are you a student in Korea?\nFollow for the next money rule. When does the bill start? See No.7\n\n#korea #lifeinkorea #studyinkorea #koreahealthinsurance #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-25-qa08-student-insurance-half-en-202611251451/toon_reel.mp4",
       "cover_ms": 1000
     },
     {
