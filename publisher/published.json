@@ -962,5 +962,23 @@
     "permalink": "https://www.instagram.com/reel/DgHzdnoAC9s/",
     "media_id": "18042763364845786",
     "note": ""
+  },
+  "kr_support-20261123-047": {
+    "status": "published",
+    "at": "2026-11-25T20:02:21+09:00",
+    "channel": "kr_support",
+    "due": "2026-11-25T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgKYHGUBgIt/",
+    "media_id": "18436837492144391",
+    "note": ""
+  },
+  "jp_support-20261119-012": {
+    "status": "published",
+    "at": "2026-11-25T20:02:21+09:00",
+    "channel": "jp_support",
+    "due": "2026-11-25T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgKYREBxppu/",
+    "media_id": "17965230590998053",
+    "note": ""
   }
 }
