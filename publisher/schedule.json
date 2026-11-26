@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:30:16+09:00",
+  "updated": "2026-11-26T15:00:56+09:00",
   "accounts": {
     "IG_TOKEN_KCULTURE": "korea.money.rules",
     "IG_TOKEN_SUPPORT": "batja.toon",
@@ -1309,6 +1309,28 @@
       "cover_ms": 1000
     },
     {
+      "id": "jp_support-20261126-016",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-11-30T20:00:00+09:00",
+      "caption": "出産後もらえるお金、こども医療費助成はどこでも0円？👶 シーズン1 第9話\n→ 全ての市区町村が子どもの医療費を助成しています。ただし何歳まで・自己負担は町によって違います。\n\n「昔は病院代ぜんぶ払ったわよ」とお義母さん。\nママ友の話では、引っ越したら助成の内容が変わったそうです。\n\n✅ 実施：全国の全市区町村(1,741)が子どもの医療費を助成\n✅ 対象：高校生(18歳年度末)までの町がいちばん多い\n✅ 本来の窓口負担：就学前2割・小学生から3割 → 町が助成\n\n📍 申請先：住んでいる市区町村(赤ちゃんの健康保険に入ったあと、受給者証を申請)\n※年齢・自己負担・所得制限は自治体によって違います。町の公式サイトで確認してください\n※出典：こども家庭庁「こどもに係る医療費の助成についての調査」(令和6年4月1日時点) 基準日 2026.11.26\n\n💬 うちの町は何歳まで？ 知ってる？ 知らない？\n📌 保存して、パートナーにも送ってね\n🔔 次回：医療費が10万円こえたら？ 医療費控除の話 (10)\n\n#もらえるお金 #子育て支援 #子ども医療費 #医療費助成 #新米ママ",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-26-ep09-kodomo-iryohi-202611261501/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261126-091",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-11-30T21:00:00+09:00",
+      "caption": "Korea severance: 1 day short = ₩0? | Korea Money Rules No.8\n\nZoe was tired of her cafe job in Seoul. At month 11, she wanted to quit today. Mina stopped her just in time.\n\nQ. Do you get severance pay in Korea if you quit before 1 year?\nA. No. You need 1 year or more of work. Even 1 day short means ₩0.\n\n✔ Work 1 year or more, 15+ hours a week → you get severance pay\n✔ You get about 30 days' average pay for each year worked\n✔ Your boss must pay within 14 days after you quit\n\nAverage pay is based on your last 3 months of pay. The law covers workers, and rules can change. Not paid? Ask the labor office (1350). (Source: Ministry of Employment and Labor. As of Nov 26, 2026)\n\nSave this 📌 Send it to a friend in Korea.\n💬 How long at your job? Months?\nFollow for the next money rule. Next: Leaving Korea? Pension back (No.9)\n\n#korea #lifeinkorea #koreaseverancepay #workinkorea #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-26-toon08-severance-en-202611261500/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
       "id": "kr_support-20261119-044",
       "channel": "kr_support",
       "handle": "batja.toon",
@@ -1317,6 +1339,28 @@
       "due": "2026-12-01T20:00:00+09:00",
       "caption": "육아지원금 아이돌봄 시간제, 생후 3개월부터 집에 와 줄까?\n→ 생후 3개월부터 방문 돌봄을 신청할 수 있어요.\n\n금동의 카페 납품과 지원의 회의가 겹쳤어요.\n복이를 데리고 나갈까 고민하다 집으로 오는 돌봄을 찾았어요.\n\n✅ 요금｜시간제 기본형은 평일 주간 시간당 12,790원. 정부지원 유형에 따라 본인부담금이 달라요.\n✅ 대상｜생후 3개월 이상~만 12세 이하. 정부지원은 양육공백 등 요건과 기준 중위소득 250% 이하를 확인해요.\n✅ 이용 시간｜한 번에 2시간부터 신청할 수 있어요.\n\nQ. 정부지원만 신청하면 돌봄도 예약되나요?\nA. 주민센터에서 지원 판정을 신청하고 아이돌봄 홈페이지에서 원하는 일정을 따로 신청해요.\n\n⚠ 이용 가능 일정과 실제 요금은 신청 전에 확인하세요.\n📌 멈춰서 보려면 저장해 두세요. 신청할 때 다시 봐요.\n👉 팔로우하고 다음 화 받기. 산모·신생아 건강관리, 출산 후 60일까지 신청할 수 있을까요?\n💬 방문 돌봄 써봤어요? 알아보는 중이에요?\n\n출처｜아이돌봄서비스·성평등가족부·보건복지부. 2026.11.19 기준. 시즌2 10화.\n#육아지원금 #아이돌봄서비스 #육아정보",
       "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/batja-2026-11-19-ep10-in-home-childcare-202611241230/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_support-20261126-017",
+      "channel": "jp_support",
+      "handle": "moraeru.manga",
+      "token_env": "IG_TOKEN_ROMANCE_JP",
+      "kind": "reel",
+      "due": "2026-12-01T20:00:00+09:00",
+      "caption": "もらえるお金・こども医療費助成、引っ越したら受給者証は使える？👶 よくある質問\n→ 前の町の受給者証は使えません。新しい市区町村で申請し直します。\n\n来月引っ越すけんたとゆい。\n「前の町のを使えばいいよね？」とけんた。実は使えません。\n\n✅ 前の町の受給者証：引っ越したら使えない\n✅ 新しい町：転入したら早めに申請し直す\n✅ 何歳まで・自己負担：町によって違う\n\n📍 申請先：引っ越し先の市区町村\n※手続き・必要書類は自治体によって違います。町の公式サイトで確認してください\n※出典：こども家庭庁「こどもに係る医療費の助成についての調査」 基準日 2026.11.26\n\n💬 引っ越しの予定、ある？ ない？\n📌 保存して、パートナーにも送ってね\n🔔 くわしくは第9話「子どもの医療費、どこでも0円？」\n\n#もらえるお金 #子育て支援 #子ども医療費 #医療費助成 #引っ越し",
+      "video_url": "https://raw.githubusercontent.com/richx552277/JP-GoodSpeaking/main/reels/moraeru-2026-11-26-qa17-hikkoshi-jukyusha-202611261501/toon_reel.mp4",
+      "cover_ms": 1000
+    },
+    {
+      "id": "jp_cardnews-20261126-092",
+      "channel": "jp_cardnews",
+      "handle": "korea.money.rules",
+      "token_env": "IG_TOKEN_KCULTURE",
+      "kind": "reel",
+      "due": "2026-12-01T21:00:00+09:00",
+      "caption": "Korea travel: K-ETA free skip ends Dec 31? | Money Alert\n\nZoe's friend plans a trip to Seoul in 2027. Does she need a K-ETA now?\n\nQ. Can I still skip the K-ETA when I visit Korea in 2027?\nA. The free skip for exempt countries ends Dec 31, 2026, unless it is extended. No new date is out yet.\n\n✔ What: the temporary K-ETA exemption ends\n✔ When: Dec 31, 2026 (Korea time)\n✔ Already have a K-ETA? It stays valid until it expires\n\nCheck if your country is on the list. Rules can change, so check k-eta.go.kr before you book. (Source: K-ETA official site. As of Nov 26, 2026)\n\nSave this for your trip 📌 Send it to your travel buddy.\n💬 Visiting Korea in 2027? Yes or no?\nFollow for the next money rule. Full story: K-ETA rules (No.2)\n\n#korea #koreatravel #keta #visitkorea #koreatips",
+      "video_url": "https://raw.githubusercontent.com/richx552277/korea-cardnews/main/reels/2026-11-26-alert-keta-dec31-en-202611261501/toon_reel.mp4",
       "cover_ms": 1000
     }
   ]
