@@ -921,12 +921,13 @@
     "note": ""
   },
   "kr_support-20261117-041": {
-    "status": "failed",
-    "at": "2026-11-21T20:32:15+09:00",
+    "status": "published",
+    "at": "2026-11-27T20:02:14+09:00",
     "channel": "kr_support",
-    "due": "2026-11-21T20:00:00+09:00",
-    "attempts": 3,
-    "error": "me: {\"error\":{\"message\":\"Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A6RIYkj0HdDErRum0tNMlEF\"}}"
+    "due": "2026-11-27T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgPhsNdRETY/",
+    "media_id": "18078134159747298",
+    "note": ""
   },
   "jp_support-20261118-011": {
     "status": "published",
@@ -1007,6 +1008,15 @@
     "due": "2026-11-26T21:00:00+09:00",
     "permalink": "https://www.instagram.com/reel/DgNDxIDqgdS/",
     "media_id": "18162473461508133",
+    "note": ""
+  },
+  "jp_support-20261125-014": {
+    "status": "published",
+    "at": "2026-11-27T20:02:14+09:00",
+    "channel": "jp_support",
+    "due": "2026-11-27T20:00:00+09:00",
+    "permalink": "https://www.instagram.com/reel/DgPhwVBBUrr/",
+    "media_id": "18119441117040470",
     "note": ""
   }
 }
